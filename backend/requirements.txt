@@ -1,0 +1,4 @@
+Flask
+Spotipy
+pandas
+python-dotenv

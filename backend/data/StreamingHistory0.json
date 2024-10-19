@@ -1,0 +1,4316 @@
+{
+    "tracks": [
+      {
+        "artist": "Digable Planets",
+        "album": "Reachin' (A New Refutation Of Time And Space)",
+        "track": "Where I'm From",
+        "uri": "spotify:track:1962ZwEY7WNQLcmYFn3eR9"
+      },
+      {
+        "artist": "Arijit Singh",
+        "album": "Raees",
+        "track": "Zaalima",
+        "uri": "spotify:track:4fgJe7zBjVXvs8HxtE21Y9"
+      },
+      {
+        "artist": "Bastille",
+        "album": "All This Bad Blood",
+        "track": "Pompeii",
+        "uri": "spotify:track:0sooJd5WbNnnz5k6yO7FIQ"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Amazing (feat. Future)",
+        "uri": "spotify:track:4xyhmhurbsNC0cYaAgAxt1"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Zack And Codeine",
+        "uri": "spotify:track:5lZZmityu9TAjNvSY6GLhR"
+      },
+      {
+        "artist": "Giveon",
+        "album": "Garden Kisses",
+        "track": "Garden Kisses",
+        "uri": "spotify:track:62d6YXEYxmMWAuLpw1EysL"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Bones (feat. The Underachievers, Nyck Caution & Kirk Knight)",
+        "uri": "spotify:track:71D9AslGOU1rsmhOsmU6Qy"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "5% TINT",
+        "uri": "spotify:track:11kDth1aKUEUMq9r1pqyds"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Hold Your Breath (feat. Gunna)",
+        "uri": "spotify:track:5PFfxZ9WezcE8JiUWLsyus"
+      },
+      {
+        "artist": "Logic",
+        "album": "Everybody Dies",
+        "track": "Everybody Dies",
+        "uri": "spotify:track:4kKO9epItbVyTKleP32FAV"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "Rodeo",
+        "track": "Pornography",
+        "uri": "spotify:track:2QeQNF182V61Im0QpjdVta"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Wizard Of Oz",
+        "uri": "spotify:track:2ycWek3FNNVHBhz2TcnOzZ"
+      },
+      {
+        "artist": "YG",
+        "album": "STAY DANGEROUS",
+        "track": "HANDGUN (feat. A$AP Rocky)",
+        "uri": "spotify:track:50wkDxcIfamIajKwmgp0iB"
+      },
+      {
+        "artist": "Zoume",
+        "album": "The Sauce",
+        "track": "The Sauce",
+        "uri": "spotify:track:5xOLbV7XzgBOa3H2z4EXXm"
+      },
+      {
+        "artist": "Khalid",
+        "album": "American Teen",
+        "track": "Young Dumb & Broke",
+        "uri": "spotify:track:5Z3GHaZ6ec9bsiI5BenrbY"
+      },
+      {
+        "artist": "Mk.gee",
+        "album": "Pronounced Mcgee",
+        "track": "You",
+        "uri": "spotify:track:75ZoDBdTAO9e896PtMsbnG"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Same Bitches (feat. G-Eazy & YG)",
+        "uri": "spotify:track:688QpQAwqsLdBR6lr13wK1"
+      },
+      {
+        "artist": "sped up nightcore",
+        "album": "B.O.T.A. (Baddest Of Them All) [feat. Eliza Rose & Interplanetary Criminal] [Sped Up Version]",
+        "track": "B.O.T.A. (Baddest Of Them All) [feat. Eliza Rose & Interplanetary Criminal] [Sped Up Version]",
+        "uri": "spotify:track:4PwGpbqCyhmRdF8PjD4w79"
+      },
+      {
+        "artist": "R. City",
+        "album": "What Dreams Are Made Of",
+        "track": "Locked Away (feat. Adam Levine)",
+        "uri": "spotify:track:7x5xYW5W42OGPAdHUyyguy"
+      },
+      {
+        "artist": "Mk.gee",
+        "album": "Pronounced Mcgee",
+        "track": "I Know How You Get",
+        "uri": "spotify:track:7AdBuHyc78SDvPjddieyaf"
+      },
+      {
+        "artist": "Huron John",
+        "album": "Never Inside",
+        "track": "Be My Friend",
+        "uri": "spotify:track:0sHTEZ4tvrk5oVjpM37Bfc"
+      },
+      {
+        "artist": "Lupe Fiasco",
+        "album": "Food & Liquor II: The Great American Rap Album, Pt. 1",
+        "track": "Battle Scars (with Guy Sebastian)",
+        "uri": "spotify:track:1hWYT0w2R0J19rlVkiez7X"
+      },
+      {
+        "artist": "Mason Ramsey",
+        "album": "Famous",
+        "track": "Famous",
+        "uri": "spotify:track:2HGymMoOdB4ZYv0AAqYmgF"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Problemz (feat. Erick The Architect, CJ Fly, The Underachievers, Zombie Juice & Nyck Caution)",
+        "uri": "spotify:track:0IXJuf4reoQ5erS5kEqdwx"
+      },
+      {
+        "artist": "Franke",
+        "album": "Girl From LA",
+        "track": "Girl From LA",
+        "uri": "spotify:track:0gmgZqGXtqhBDZ21VpVn7C"
+      },
+      {
+        "artist": "Kishore Kumar",
+        "album": "Krazy Kishore",
+        "track": "Aanewala Pal Janewala Hai (From \"Golmaal\")",
+        "uri": "spotify:track:3BmN5GKxrrvmg4hiSFs8zU"
+      },
+      {
+        "artist": "Peach Tree Rascals",
+        "album": "Fumari",
+        "track": "Fumari",
+        "uri": "spotify:track:2OQMSCUE6ClEZFJFFNqNrQ"
+      },
+      {
+        "artist": "KAYTRANADA",
+        "album": "Intimidated",
+        "track": "Intimidated (feat. H.E.R.)",
+        "uri": "spotify:track:0dFdGPVLs3k0z9ezYWZzUa"
+      },
+      {
+        "artist": "Saba",
+        "album": "Bucket List Project",
+        "track": "Photosynthesis",
+        "uri": "spotify:track:3DlgDXIYtnWtJKiB8bZQMv"
+      },
+      {
+        "artist": "Rejjie Snow",
+        "album": "The Moon & You",
+        "track": "PURPLE TUESDAY (feat. Joey Bada$$ & Jesse Boykins III)",
+        "uri": "spotify:track:4Pd47r1xamgrYZb9qqDjE0"
+      },
+      {
+        "artist": "Sophie Ellis-Bextor",
+        "album": "Read My Lips",
+        "track": "Murder On The Dancefloor",
+        "uri": "spotify:track:4tKGFmENO69tZR9ahgZu48"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Blue Slide Park",
+        "track": "Diamonds & Gold",
+        "uri": "spotify:track:0Etjx0wbI3vCJAA054J5ZY"
+      },
+      {
+        "artist": "Frank Ocean",
+        "album": "channel ORANGE",
+        "track": "Thinkin Bout You",
+        "uri": "spotify:track:7DfFc7a6Rwfi3YQMRbDMau"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "FromdaTomb$",
+        "uri": "spotify:track:18Y3zi59zjRVUEjUhdApSX"
+      },
+      {
+        "artist": "Ryan Trey",
+        "album": "Nowhere To Run",
+        "track": "Nowhere To Run",
+        "uri": "spotify:track:72XxzjvIBR0TKljL0ETcGQ"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Stuck With Me",
+        "uri": "spotify:track:6jChisgoIfN75H4RMcGvfL"
+      },
+      {
+        "artist": "Maroon 5",
+        "album": "Cold",
+        "track": "Cold",
+        "uri": "spotify:track:52yOf7Ls1u5AO3cFIzQ58m"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "2000",
+        "track": "Make Me Feel",
+        "uri": "spotify:track:0iN3vsrlFuwsRcY63u6aZw"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Never Know",
+        "uri": "spotify:track:4N3uRLsbsG3TMrYqPZy3v4"
+      },
+      {
+        "artist": "Fetty Wap",
+        "album": "679 (feat. Remy Boyz)",
+        "track": "679 (feat. Remy Boyz)",
+        "uri": "spotify:track:5NQbUaeTEOGdD6hHcre0dZ"
+      },
+      {
+        "artist": "JID",
+        "album": "DiCaprio 2",
+        "track": "Workin Out",
+        "uri": "spotify:track:46Lx5epWOQBA3J86ovnxmV"
+      },
+      {
+        "artist": "NEIL FRANCES",
+        "album": "Dumb Love",
+        "track": "Dumb Love",
+        "uri": "spotify:track:42YStFZisN7OLfdEatf8w3"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Far Away (feat. Kirk Knight, Meechy Darko, Erick The Architect & Nyck Caution)",
+        "uri": "spotify:track:10nbIPV2SRLqEjIpvS8CVb"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Finesse",
+        "uri": "spotify:track:590bUp2TKTfTS9NfiD4Nmn"
+      },
+      {
+        "artist": "Bladee",
+        "album": "The Fool",
+        "track": "Hotel Breakfast",
+        "uri": "spotify:track:1zoTGEJRVGu0XP7aC9LF0t"
+      },
+      {
+        "artist": "Logic",
+        "album": "Finessed Flow",
+        "track": "44 More",
+        "uri": "spotify:track:6nMewZCdHosBGTlyUBe7Le"
+      },
+      {
+        "artist": "Kumar Sanu",
+        "album": "Baazigar",
+        "track": "Baazigar O Baazigar",
+        "uri": "spotify:track:56h75LnnsaBy4T8N8MSNgF"
+      },
+      {
+        "artist": "VIC MENSA",
+        "album": "The Autobiography",
+        "track": "Say I Didn't",
+        "uri": "spotify:track:6I0XPgr0SFHQcKy9v7Gf0K"
+      },
+      {
+        "artist": "Jungle",
+        "album": "Volcano",
+        "track": "Back On 74",
+        "uri": "spotify:track:19kHhX6f6EfLU7rcO3RqjO"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "letter 2 my momma",
+        "uri": "spotify:track:55xNjVrGJxgqcEFqCyejTM"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Nice For What",
+        "uri": "spotify:track:0HVv5bEOiI9a0QfgcASXpX"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Elevate",
+        "uri": "spotify:track:4uloft7ZE54WflsuqFmjC7"
+      },
+      {
+        "artist": "Gus Dapperton",
+        "album": "Moodna, Once With Grace",
+        "track": "Moodna, Once With Grace",
+        "uri": "spotify:track:08VEQesIyvMu4xIxec8lMT"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Time Piece (feat. Lil Durk)",
+        "uri": "spotify:track:03yX0WgZGT6DM3GNLSu4f1"
+      },
+      {
+        "artist": "NF",
+        "album": "Let You Down",
+        "track": "Let You Down",
+        "uri": "spotify:track:2amzBJRBPOGszBem4FedfE"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Daily Routine",
+        "uri": "spotify:track:7fMG4HNSKzBFKthjmeW8LU"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "VULTURES 1",
+        "track": "FUK SUMN",
+        "uri": "spotify:track:5rlXuCLnMdfo85079qXHoz"
+      },
+      {
+        "artist": "Yung Gravy",
+        "album": "Mr. Clean - EP",
+        "track": "Mr. Clean",
+        "uri": "spotify:track:4hiNSVDrVkcrd0BrOME3HX"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Big Lie",
+        "uri": "spotify:track:02opp1cycqiFNDpLd2o1J3"
+      },
+      {
+        "artist": "Huron John",
+        "album": "Apocalypse Wow",
+        "track": "Motocross",
+        "uri": "spotify:track:71PfgIUSVJEE9lsuDf4MsK"
+      },
+      {
+        "artist": "Rudy Mancuso",
+        "album": "Black & White",
+        "track": "Black & White",
+        "uri": "spotify:track:0WqfoaxUvOhkOcUYv0rtLx"
+      },
+      {
+        "artist": "Mk.gee",
+        "album": "cz",
+        "track": "cz",
+        "uri": "spotify:track:0tdA3tsJ4n6rJuiId3KrOP"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "4L",
+        "uri": "spotify:track:1uULQtJ8rbsX5TwjPpPc9Q"
+      },
+      {
+        "artist": "A Boogie Wit da Hoodie",
+        "album": "Drowning (feat. Kodak Black)",
+        "track": "Drowning (feat. Kodak Black)",
+        "uri": "spotify:track:6Q2FftbUG530lCtBI74bMH"
+      },
+      {
+        "artist": "Aminé",
+        "album": "Good For You",
+        "track": "Yellow",
+        "uri": "spotify:track:4Hj5yNHgu2dyrnzRQN7Gld"
+      },
+      {
+        "artist": "IDK",
+        "album": "USEE4YOURSELF",
+        "track": "Puerto Rico",
+        "uri": "spotify:track:3fHFpZGEnzkocwC1xKSoNY"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "all my friends",
+        "uri": "spotify:track:4paAidoE8VAemwU4jgCc6l"
+      },
+      {
+        "artist": "Drake",
+        "album": "Views",
+        "track": "One Dance",
+        "uri": "spotify:track:1zi7xx7UVEFkmKfv06H8x0"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "track": "BDE Bonus",
+        "uri": "spotify:track:4vbCuMBvSN4jqOX4ypQcbz"
+      },
+      {
+        "artist": "Jay Rock",
+        "album": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+        "track": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+        "uri": "spotify:track:51rXHuKN8Loc4sUlKPODgH"
+      },
+      {
+        "artist": "XXXTENTACION",
+        "album": "?",
+        "track": "Moonlight",
+        "uri": "spotify:track:0JP9xo3adEtGSdUEISiszL"
+      },
+      {
+        "artist": "Khalid",
+        "album": "Love Lies (with Normani)",
+        "track": "Love Lies (with Normani)",
+        "uri": "spotify:track:45Egmo7icyopuzJN0oMEdk"
+      },
+      {
+        "artist": "BROCKHAMPTON",
+        "album": "SATURATION II",
+        "track": "QUEER",
+        "uri": "spotify:track:4sEnZad9gvLSLkyt8DW11O"
+      },
+      {
+        "artist": "Ansel Elgort",
+        "album": "You Can Count On Me",
+        "track": "You Can Count On Me",
+        "uri": "spotify:track:2qwYI0iwHZbFXZzq0QGgMP"
+      },
+      {
+        "artist": "YG",
+        "album": "Stop Snitchin",
+        "track": "Stop Snitchin",
+        "uri": "spotify:track:3hhs1XHsWvbH0mP9D1BT2Z"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "U Say (feat. Tyler, The Creator & Jay Prince)",
+        "uri": "spotify:track:2p37Mfy2PWajgOS3i2aaep"
+      },
+      {
+        "artist": "Smokepurpp",
+        "album": "Deadstar",
+        "track": "Fingers Blue (feat. Travis Scott)",
+        "uri": "spotify:track:6l8McJSn8BgCTTewysSusR"
+      },
+      {
+        "artist": "88rising",
+        "album": "Head In The Clouds",
+        "track": "Peach Jam",
+        "uri": "spotify:track:6dktyiCWz2JYGmcPQ5D5dY"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Swimming",
+        "track": "Dunno",
+        "uri": "spotify:track:3YnwIp2b99p3e5dsFTXIIx"
+      },
+      {
+        "artist": "Clean Bandit",
+        "album": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "track": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "uri": "spotify:track:5knuzwU65gJK7IF5yJsuaW"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "track": "SUPER PREDATOR (feat. Styles P)",
+        "uri": "spotify:track:0dKLHSqcu9vuFgnb0O8rff"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "track": "LAND OF THE FREE",
+        "uri": "spotify:track:6xz04ypw5JsqiyityCASG1"
+      },
+      {
+        "artist": "Migos",
+        "album": "Culture II",
+        "track": "Made Men",
+        "uri": "spotify:track:3XAWpSxJMPeIwxXc5g9en1"
+      },
+      {
+        "artist": "Fall Out Boy",
+        "album": "American Beauty/American Psycho",
+        "track": "Centuries",
+        "uri": "spotify:track:04aAxqtGp5pv12UXAg4pkq"
+      },
+      {
+        "artist": "Masego",
+        "album": "Flight 99",
+        "track": "Flight 99",
+        "uri": "spotify:track:5z2XleKRbvbiytGucM5v2D"
+      },
+      {
+        "artist": "Victor Internet",
+        "album": "Tinder Song",
+        "track": "Tinder Song",
+        "uri": "spotify:track:1JHOy566xSKwNPqaB9AF2i"
+      },
+      {
+        "artist": "Jhené Aiko",
+        "album": "Trip",
+        "track": "While We're Young",
+        "uri": "spotify:track:4mL59LVbKgOpEACxraGYdr"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "The Man with the Iron Fists (Original Motion Picture Soundtrack)",
+        "track": "White Dress",
+        "uri": "spotify:track:06HKVV5md0yQwCjes2Zqrt"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "White Iverson",
+        "uri": "spotify:track:6eT7xZZlB2mwyzJ2sUKG6w"
+      },
+      {
+        "artist": "Rob $tone",
+        "album": "Chill Bill (feat. J. Davi$ & Spooks)",
+        "track": "Chill Bill (feat. J. Davi$ & Spooks)",
+        "uri": "spotify:track:5uDASfU19gDxSjW8cnCaBp"
+      },
+      {
+        "artist": "Smino",
+        "album": "blkswn",
+        "track": "blkswn",
+        "uri": "spotify:track:1BFFcF83SmsS6cKBLZGjkc"
+      },
+      {
+        "artist": "Nujabes",
+        "album": "Luv(sic) Hexalogy",
+        "track": "Luv (sic) pt5 Instrumentals",
+        "uri": "spotify:track:4yE4q67dJfxAHoWaf95k4E"
+      },
+      {
+        "artist": "Rapsody",
+        "album": "Crown",
+        "track": "OooWee",
+        "uri": "spotify:track:6pzWZe7LIcfKzriMIk6opx"
+      },
+      {
+        "artist": "JAWNY",
+        "album": "The Story Of Hugo",
+        "track": "Best Thing",
+        "uri": "spotify:track:1nBVHNr7KSYHNj6BdhlNx3"
+      },
+      {
+        "artist": "Huron John",
+        "album": "Trapped In A Lava Lamp",
+        "track": "Arthur",
+        "uri": "spotify:track:5fjAs8dVIuaO7aOTCtt1KL"
+      },
+      {
+        "artist": "G-Eazy",
+        "album": "The Beautiful & Damned",
+        "track": "No Limit",
+        "uri": "spotify:track:2DQ1ITjI0YoLFzuADN1ZBW"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "Lift Yourself",
+        "track": "Lift Yourself",
+        "uri": "spotify:track:3uYDO9dPLTVrgfwg7EYXSf"
+      },
+      {
+        "artist": "Camila Cabello",
+        "album": "Havana (feat. Young Thug)",
+        "track": "Havana (feat. Young Thug)",
+        "uri": "spotify:track:0ofbQMrRDsUaVKq2mGLEAb"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Circles",
+        "track": "Complicated",
+        "uri": "spotify:track:3WfSNAoj2D8C9noPSGZZFM"
+      },
+      {
+        "artist": "Migos",
+        "album": "Culture",
+        "track": "T-Shirt",
+        "uri": "spotify:track:7KOlJ92bu51cltsD9KU5I7"
+      },
+      {
+        "artist": "Mk.gee",
+        "album": "Untitled",
+        "track": "Untitled",
+        "uri": "spotify:track:6I0m89XMkPX46MMaNmkWNK"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Tiff Freestyle",
+        "uri": "spotify:track:790MIo6gDwdvmNsw8yDB5Q"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Habits",
+        "uri": "spotify:track:3KkWGDCb6byHjNYjxBihGK"
+      },
+      {
+        "artist": "Masego",
+        "album": "Masego",
+        "track": "What You Wanna Try",
+        "uri": "spotify:track:526fD9LiAEi3KKvhhYfWmm"
+      },
+      {
+        "artist": "R. City",
+        "album": "Locked Away (feat. Adam Levine)",
+        "track": "Locked Away (feat. Adam Levine)",
+        "uri": "spotify:track:0sQLhT32E9ZG2zn5iYR6nN"
+      },
+      {
+        "artist": "Chance the Rapper",
+        "album": "I Might Need Security",
+        "track": "I Might Need Security",
+        "uri": "spotify:track:3EApebexZ7YqDIqw2EMTDh"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "One More Round (feat. Meechy Darko, Erick The Architect & Nyck Caution)",
+        "uri": "spotify:track:4URGmQkQ2Gy0axfCO3PPaO"
+      },
+      {
+        "artist": "Mereba",
+        "album": "The Jungle Is The Only Way Out",
+        "track": "Sandstorm (feat. JID)",
+        "uri": "spotify:track:1NlWBpNYAnFT7gMGyC0Y1M"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "ASTROTHUNDER",
+        "uri": "spotify:track:4MXhiYIRDMGAuvZc5IFTwC"
+      },
+      {
+        "artist": "Pritam",
+        "album": "Dilwale (Original Motion Picture Soundtrack)",
+        "track": "Gerua (From \"Dilwale\")",
+        "uri": "spotify:track:7iLA6PQeQWRjLDHOJgGpj5"
+      },
+      {
+        "artist": "Logic",
+        "album": "One Day (feat. Ryan Tedder)",
+        "track": "One Day (feat. Ryan Tedder)",
+        "uri": "spotify:track:6e2PtJYcltVk76nLwxBzRn"
+      },
+      {
+        "artist": "A.R. Rahman",
+        "album": "Saathiya",
+        "track": "Saathiya",
+        "uri": "spotify:track:78KKYDENYsw6jYfuEZsqJl"
+      },
+      {
+        "artist": "Powers Pleasant",
+        "album": "Pull Up (feat. Joey Bada$$ & A$AP Ferg)",
+        "track": "Pull Up (feat. Joey Bada$$ & A$AP Ferg)",
+        "uri": "spotify:track:6lM1G8kF3xCUW20lIRfoBm"
+      },
+      {
+        "artist": "NAV",
+        "album": "Some Way",
+        "track": "Some Way",
+        "uri": "spotify:track:0bGVqUPZZ2owtWEyzIggQI"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Psycho (feat. Ty Dolla $ign)",
+        "track": "Psycho (feat. Ty Dolla $ign)",
+        "uri": "spotify:track:65NwOZqoXny4JxqAPlfxRF"
+      },
+      {
+        "artist": "Pritam",
+        "album": "Dilwale (Original Motion Picture Soundtrack)",
+        "track": "Janam Janam",
+        "uri": "spotify:track:4km0RUkMMFdx8iDuq36o2w"
+      },
+      {
+        "artist": "Wale",
+        "album": "Winter Wars",
+        "track": "Winter Wars",
+        "uri": "spotify:track:6MNVXCCvHKUmGvEhJerySY"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Nonstop",
+        "uri": "spotify:track:2Vx8E3K5icPZR7OCklWBXX"
+      },
+      {
+        "artist": "J. Cole",
+        "album": "4 Your Eyez Only",
+        "track": "Neighbors",
+        "uri": "spotify:track:0utlOiJy2weVl9WTkcEWHy"
+      },
+      {
+        "artist": "Smino",
+        "album": "High 4 Da Highladays",
+        "track": "Kushmas",
+        "uri": "spotify:track:7Mki1U7Yqvr8W1BuWwrjip"
+      },
+      {
+        "artist": "Drake",
+        "album": "Views",
+        "track": "Keep The Family Close",
+        "uri": "spotify:track:7sBwAWyXfiIgrYQ8BaJESH"
+      },
+      {
+        "artist": "J. Cole",
+        "album": "KOD",
+        "track": "KOD",
+        "uri": "spotify:track:7yotKA30dwTKNEGomV9ZsI"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "8 To A 4",
+        "uri": "spotify:track:7kVNc3Mpzc9iOjqnai93E3"
+      },
+      {
+        "artist": "Rudy Mancuso",
+        "album": "Mama",
+        "track": "Mama",
+        "uri": "spotify:track:3VdA19kvkZnTRkxGkdbKSi"
+      },
+      {
+        "artist": "Logic",
+        "album": "YSIV",
+        "track": "Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)",
+        "uri": "spotify:track:6VDz4m1vEGHDDqQojf1mpc"
+      },
+      {
+        "artist": "Liam Payne",
+        "album": "Strip That Down",
+        "track": "Strip That Down",
+        "uri": "spotify:track:4Ro98RCK90oHqqSZUnTFq5"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "K-POP",
+        "track": "K-POP",
+        "uri": "spotify:track:5L3ecxQnQ9qTBmnLQiwf0C"
+      },
+      {
+        "artist": "j^p^n",
+        "album": "Unkind",
+        "track": "Loveyou",
+        "uri": "spotify:track:67oBHPaoiXS9rifTrjaECn"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Spoil My Night (feat. Swae Lee)",
+        "uri": "spotify:track:5VuxWXbt7XENQCtE9TzpTv"
+      },
+      {
+        "artist": "Sid Sriram",
+        "album": "Kalaavathi (From \"Sarkaru Vaari Paata\") - Single",
+        "track": "Kalaavathi (From \"Sarkaru Vaari Paata\")",
+        "uri": "spotify:track:0RjQR5QfKREKE9wQki8spV"
+      },
+      {
+        "artist": "Taio Cruz",
+        "album": "The Rokstarr Hits Collection",
+        "track": "Dynamite",
+        "uri": "spotify:track:2CEgGE6aESpnmtfiZwYlbV"
+      },
+      {
+        "artist": "Spillage Village",
+        "album": "Bears Like This Too Much",
+        "track": "Voodoo",
+        "uri": "spotify:track:4ofeOC5QE3bzzD9G2G743g"
+      },
+      {
+        "artist": "Calvin Harris",
+        "album": "Slide (feat. Frank Ocean & Migos)",
+        "track": "Slide (feat. Frank Ocean & Migos)",
+        "uri": "spotify:track:6gpcs5eMhJwax4mIfKDYQk"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Paranoid",
+        "uri": "spotify:track:3fpVWegR6YOS1Yk5HSMYIq"
+      },
+      {
+        "artist": "Russ",
+        "album": "Ain't Nobody Takin My Baby",
+        "track": "Ain't Nobody Takin My Baby",
+        "uri": "spotify:track:6VnqGxiMNexOe0kRmIsBw4"
+      },
+      {
+        "artist": "Rum Jungle",
+        "album": "Everything Is Easy",
+        "track": "Wasting Your Time",
+        "uri": "spotify:track:171ocfR3MbBvlNCQgVRrs4"
+      },
+      {
+        "artist": "Rejjie Snow",
+        "album": "Dear Annie: Part 1",
+        "track": "Egyptian Luvr (feat. Aminé and Dana Williams)",
+        "uri": "spotify:track:4cFOSh45sPPvPTzOmiJ9Au"
+      },
+      {
+        "artist": "Offset",
+        "album": "Without Warning",
+        "track": "Ric Flair Drip (with Metro Boomin)",
+        "uri": "spotify:track:7sO5G9EABYOXQKNPNiE9NR"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Dior Runners",
+        "uri": "spotify:track:1pGcfOz4p1Ds35ICL0lX5k"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "ball w/o you",
+        "uri": "spotify:track:50a8bKqlwDEqeiEknrzkTO"
+      },
+      {
+        "artist": "Mick Jenkins",
+        "album": "The Water (S)",
+        "track": "Vibe",
+        "uri": "spotify:track:7tkqxOV765aQ6s45fBijjt"
+      },
+      {
+        "artist": "Marshmello",
+        "album": "FRIENDS",
+        "track": "FRIENDS",
+        "uri": "spotify:track:08bNPGLD8AhKpnnERrAc6G"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Jonestown (Interlude)",
+        "uri": "spotify:track:0R6Jlsq25eZB3Wftpxi3oF"
+      },
+      {
+        "artist": "Charlie Puth",
+        "album": "Attention",
+        "track": "Attention",
+        "uri": "spotify:track:4iLqG9SeJSnt0cSPICSjxv"
+      },
+      {
+        "artist": "Conan Gray",
+        "album": "Superache",
+        "track": "People Watching",
+        "uri": "spotify:track:3TFoEJe5zNuHZStRboWPxg"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Go Flex",
+        "uri": "spotify:track:5yuShbu70mtHXY0yLzCQLQ"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "VULTURES 1",
+        "track": "PAID",
+        "uri": "spotify:track:1tz4np70ZKhzaXjdgl0J8i"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Deja Vu",
+        "uri": "spotify:track:0H8XeaJunhvpBdBFIYi6Sh"
+      },
+      {
+        "artist": "Kid Cudi",
+        "album": "Leader Of The Delinquents",
+        "track": "Leader Of The Delinquents",
+        "uri": "spotify:track:3hR48Bj9Wgl6xunDG4nsRZ"
+      },
+      {
+        "artist": "Men I Trust",
+        "album": "Billie Toppy",
+        "track": "Billie Toppy",
+        "uri": "spotify:track:5jyj2XKWILHQxDoz59ddCT"
+      },
+      {
+        "artist": "Lund",
+        "album": "Broken",
+        "track": "Broken",
+        "uri": "spotify:track:1SuznrYulmD8HMZrenI0VU"
+      },
+      {
+        "artist": "Artemas",
+        "album": "if u think i'm pretty",
+        "track": "if u think i'm pretty",
+        "uri": "spotify:track:34Yl756FwYuZldE9xnshj5"
+      },
+      {
+        "artist": "Bazzi",
+        "album": "Mine",
+        "track": "Mine",
+        "uri": "spotify:track:6tHWl8ows5JOZq9Yfaqn3M"
+      },
+      {
+        "artist": "Bladee",
+        "album": "Icedancer",
+        "track": "Be Nice 2 Me",
+        "uri": "spotify:track:2TmqHjg7uhizGndzXQdFuf"
+      },
+      {
+        "artist": "The Weeknd",
+        "album": "Trilogy",
+        "track": "What You Need",
+        "uri": "spotify:track:7IpDQcksaT8SxS7vOX4SRm"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Hardknock",
+        "uri": "spotify:track:3QbsrWxq3JyNov94VzbNdB"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Ball For Me (feat. Nicki Minaj)",
+        "uri": "spotify:track:6IaieqiCVvsNvEt6Y7yOFa"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "B4.Da.$$",
+        "track": "Curry Chicken",
+        "uri": "spotify:track:0x0Qdvk4RtiORXJYhVe9qF"
+      },
+      {
+        "artist": "Kid Cudi",
+        "album": "PORSCHE TOPLESS",
+        "track": "PORSCHE TOPLESS",
+        "uri": "spotify:track:0XyLyJATYbD8eSyfqq72hx"
+      },
+      {
+        "artist": "Logan Paul",
+        "album": "Outta My Hair",
+        "track": "Outta My Hair",
+        "uri": "spotify:track:12daUNlk4Jh0Ytp3OFJlE4"
+      },
+      {
+        "artist": "Vishal-Shekhar",
+        "album": "Ghungroo (From \"War\")",
+        "track": "Ghungroo (From \"War\")",
+        "uri": "spotify:track:0WdbnNKO0Jt4BZACSDQh44"
+      },
+      {
+        "artist": "The Weeknd",
+        "album": "My Dear Melancholy,",
+        "track": "Call Out My Name",
+        "uri": "spotify:track:4MPTj8lMMvxLwT3EwuXFop"
+      },
+      {
+        "artist": "Franke",
+        "album": "Home Alone",
+        "track": "Home Alone",
+        "uri": "spotify:track:01GElUuJToDk1R7onJpH2Q"
+      },
+      {
+        "artist": "Famous Dex",
+        "album": "JAPAN",
+        "track": "JAPAN",
+        "uri": "spotify:track:4lTiuD1DwBKo4L7wqMkD7C"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "BUTTERFLY EFFECT",
+        "uri": "spotify:track:2cYqizR4lgvp4Qu6IQ3qGN"
+      },
+      {
+        "artist": "4batz",
+        "album": "act ii: date @ 8 (feat. Drake) [remix]",
+        "track": "act ii: date @ 8 (feat. Drake) - remix",
+        "uri": "spotify:track:3QS9ZCtoSCJhmaJ7QNXSAS"
+      },
+      {
+        "artist": "Lil Wayne",
+        "album": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "track": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "uri": "spotify:track:4dASQiO1Eoo3RJvt74FtXB"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "AUSTIN",
+        "track": "Green Thumb",
+        "uri": "spotify:track:0onScSO7HtUxKaqxtj0X23"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Puke (feat. Nyck Caution, Erick The Architect, Meechy Darko & AKTHESAVIOR)",
+        "uri": "spotify:track:6djv8v0u9fEIErhzwpBoC2"
+      },
+      {
+        "artist": "Don Toliver",
+        "album": "Bandit",
+        "track": "Bandit",
+        "uri": "spotify:track:7sTyAjxDXq9afwfSQy6D0s"
+      },
+      {
+        "artist": "J Balvin",
+        "album": "Mi Gente",
+        "track": "Mi Gente",
+        "uri": "spotify:track:4ipnJyDU3Lq15qBAYNqlqK"
+      },
+      {
+        "artist": "Sylvan LaCue",
+        "album": "Far from Familiar",
+        "track": "Loner (feat. Linzi Jai)",
+        "uri": "spotify:track:7cjZxxdwK4NLtXyKCTQnNR"
+      },
+      {
+        "artist": "Salim–Sulaiman",
+        "album": "Ladies Vs Ricky Bahl",
+        "track": "Aadat Se Majboor",
+        "uri": "spotify:track:7CDP4uXu6mkBDzaTOx9yTS"
+      },
+      {
+        "artist": "OneRepublic",
+        "album": "13 Reasons Why",
+        "track": "Start Again (feat. Logic)",
+        "uri": "spotify:track:1Nj2oBISdFDSF8eDuXcALz"
+      },
+      {
+        "artist": "Smino",
+        "album": "Luv 4 Rent",
+        "track": "Blu Billy",
+        "uri": "spotify:track:5nawCvOyPcckdnVNVGxGM9"
+      },
+      {
+        "artist": "ZAYN",
+        "album": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+        "track": "I Don’t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
+        "uri": "spotify:track:3NdDpSvN911VPGivFlV5d0"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "March 14",
+        "uri": "spotify:track:40IiSjljbAhrSbdJ3HxSfH"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "monster",
+        "uri": "spotify:track:2FUNBaa5DwItJtYEBgAblU"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "More (feat. Lola Rae)",
+        "uri": "spotify:track:794JoJJcwSIJ2XeLYsvltU"
+      },
+      {
+        "artist": "Faridkot",
+        "album": "Nasha (Equals Sessions) - Single",
+        "track": "Nasha (Equals Sessions)",
+        "uri": "spotify:track:1rDjwexewf4hrdZT7SRNsH"
+      },
+      {
+        "artist": "Rex Orange County",
+        "album": "Sunflower",
+        "track": "Sunflower",
+        "uri": "spotify:track:4EpZ4eYuZOwPSSwyqpdHnJ"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "Birds In The Trap Sing McKnight",
+        "track": "sdp interlude",
+        "uri": "spotify:track:4gh0ZnHzaTMT1sDga7Ek0N"
+      },
+      {
+        "artist": "MGMT",
+        "album": "Little Dark Age",
+        "track": "Little Dark Age",
+        "uri": "spotify:track:2Y0iGXY6m6immVb2ktbseM"
+      },
+      {
+        "artist": "Carly Rae Jepsen",
+        "album": "The Loveliest Time",
+        "track": "Shadow",
+        "uri": "spotify:track:6vJSLX1aqt8mVFK2j5Lk6C"
+      },
+      {
+        "artist": "Lil Keed",
+        "album": "Long Live Mexico",
+        "track": "Real Hood Baby (feat. Stickbaby)",
+        "uri": "spotify:track:6eSyGRVNbp3aKU7g6uQFnl"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Swimming",
+        "track": "Ladders",
+        "uri": "spotify:track:39NDBdU5Xkm5pCFGa5kZtI"
+      },
+      {
+        "artist": "Billie Eilish",
+        "album": "lovely (with Khalid)",
+        "track": "lovely (with Khalid)",
+        "uri": "spotify:track:0u2P5u6lvoDfwTYjAADbn4"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "track": "TEMPTATION",
+        "uri": "spotify:track:7L9g4cPfohScjJ8mGwLQWr"
+      },
+      {
+        "artist": "Kungs",
+        "album": "Layers",
+        "track": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+        "uri": "spotify:track:1A8j067qyiNwQnZT0bzUpZ"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "track": "BABYLON (feat. Chronixx)",
+        "uri": "spotify:track:3Zll5MbCF6D7Tg7lsH9KYI"
+      },
+      {
+        "artist": "Don Toliver",
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+        "track": "Givin’ Up (Not The One) (Don Toliver & 21 Savage, 2 Chainz)",
+        "uri": "spotify:track:7oCDrbTzYvxKFeHaMEtKhK"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Rubberband",
+        "uri": "spotify:track:7ei01vRetKuIqghf48ydKo"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "a&t",
+        "uri": "spotify:track:6ho88pvz4c8WCSFbdVXNia"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Don’t Matter To Me",
+        "uri": "spotify:track:36ONiya0OANYknz0GgJmwB"
+      },
+      {
+        "artist": "Drake",
+        "album": "For All The Dogs Scary Hours Edition",
+        "track": "Polar Opposites",
+        "uri": "spotify:track:1GZJGEId948OqKmf24ubj5"
+      },
+      {
+        "artist": "Pitbull",
+        "album": "Globalization",
+        "track": "Fireball (feat. John Ryan)",
+        "uri": "spotify:track:4Y7XAxTANhu3lmnLAzhWJW"
+      },
+      {
+        "artist": "Frah Quintale",
+        "album": "Regardez moi",
+        "track": "Si, ah",
+        "uri": "spotify:track:4nS6mZBLYgtksYyXsuXgBw"
+      },
+      {
+        "artist": "Tiësto",
+        "album": "Jackie Chan",
+        "track": "Jackie Chan",
+        "uri": "spotify:track:4kWO6O1BUXcZmaxitpVUwp"
+      },
+      {
+        "artist": "A Boogie Wit da Hoodie",
+        "album": "International Artist",
+        "track": "Pull Up (feat. NAV)",
+        "uri": "spotify:track:0WnV4YotgHecDIzfihlcjn"
+      },
+      {
+        "artist": "Clairo",
+        "album": "4EVER",
+        "track": "4EVER",
+        "uri": "spotify:track:5mIOsPuQdXchVY0jB5NO9Q"
+      },
+      {
+        "artist": "Hariharan",
+        "album": "Taal",
+        "track": "Nahin Saamne Tu",
+        "uri": "spotify:track:2VbJADm28rn89sdn2QwzuZ"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "State Of Emergency",
+        "uri": "spotify:track:58cvckETahSOG74RP5WE99"
+      },
+      {
+        "artist": "JPEGMAFIA",
+        "album": "LP!",
+        "track": "WHAT KIND OF RAPPIN' IS THIS?",
+        "uri": "spotify:track:2dvgoGTEjoPWou8KdL9h1g"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Price On My Head (feat. The Weeknd)",
+        "uri": "spotify:track:4hqOmrCCJKyiuwDexd8c2t"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Grandpa's Space Ship",
+        "uri": "spotify:track:3atCD3dVosUsd3KM2yzfeC"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "track": "FOR MY PEOPLE",
+        "uri": "spotify:track:5URYXSFGks9Q8eYePlgVdL"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Wassup",
+        "uri": "spotify:track:5KVciTEfXvpcFHR3RFbtJy"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Survival Tactics",
+        "uri": "spotify:track:4pNT8XTKWb2vhcsqwzdXCT"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Leave",
+        "uri": "spotify:track:5dI1yHSqgmilFEqpGbqxHh"
+      },
+      {
+        "artist": "Dre'es",
+        "album": "Warm (feat. Mia)",
+        "track": "Warm (feat. Mia)",
+        "uri": "spotify:track:3kBofOTKMUZ62a311eUwvx"
+      },
+      {
+        "artist": "Rejjie Snow",
+        "album": "Dear Annie",
+        "track": "23",
+        "uri": "spotify:track:6Km73Tlvi4yS2e4XaIuXek"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "asmr",
+        "uri": "spotify:track:2QgfDF0fQ4sskDthP8MG5w"
+      },
+      {
+        "artist": "Rudy Mancuso",
+        "album": "Magic",
+        "track": "Magic",
+        "uri": "spotify:track:2DvgLLX2ByteZyFz8ByGX4"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "BoomTrap Protocol",
+        "uri": "spotify:track:4fZxGiES1FKbNqJPrI4L3s"
+      },
+      {
+        "artist": "Harry Styles",
+        "album": "Harry's House",
+        "track": "Late Night Talking",
+        "uri": "spotify:track:1qEmFfgcLObUfQm0j1W2CK"
+      },
+      {
+        "artist": "S.P. Charan",
+        "album": "Alaipayuthey (Original Motion Picture Soundtrack)",
+        "track": "Kadhal Sadugudu",
+        "uri": "spotify:track:4vP3rarKvrhtcK2umoyq65"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Athlete",
+        "uri": "spotify:track:7L9ALJWkzhhG6y9iFbQvbo"
+      },
+      {
+        "artist": "Future",
+        "album": "Future & Juice WRLD Present... WRLD ON DRUGS",
+        "track": "WRLD On Drugs",
+        "uri": "spotify:track:3xBHLZwRfi0fjO9euaj5zf"
+      },
+      {
+        "artist": "Drake",
+        "album": "Nice For What",
+        "track": "Nice For What",
+        "uri": "spotify:track:1cTZMwcBJT0Ka3UJPXOeeN"
+      },
+      {
+        "artist": "REASON",
+        "album": "There You Have It",
+        "track": "Situations",
+        "uri": "spotify:track:4MnaV7yPUmglATd5NHo2HH"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Emotionless",
+        "uri": "spotify:track:1v1IXPXl73Z7zy6f5tUa9n"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Swoosh",
+        "uri": "spotify:track:7Lqkv1Z3D6iW5C12q7TRhy"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "I Fall Apart",
+        "uri": "spotify:track:75ZvA4QfFiZvzhj2xkaWAh"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Everyday",
+        "uri": "spotify:track:4EAV2cKiqKP5UPZmY6dejk"
+      },
+      {
+        "artist": "Her's",
+        "album": "Invitation to Her's",
+        "track": "Under Wraps",
+        "uri": "spotify:track:0UVzM2GkqTTf57G6Wj05UL"
+      },
+      {
+        "artist": "Geskle",
+        "album": "Rose Colored Glasses",
+        "track": "So She Goes",
+        "uri": "spotify:track:50RDi5SZmwdZdos0zU4kpI"
+      },
+      {
+        "artist": "Mick Jenkins",
+        "album": "What Am I To Do",
+        "track": "What Am I To Do",
+        "uri": "spotify:track:65Mnqq7nlnL29EnVnOVFDM"
+      },
+      {
+        "artist": "Metro Boomin",
+        "album": "HEROES & VILLAINS",
+        "track": "Around Me (feat. Don Toliver)",
+        "uri": "spotify:track:221qmpQeBNV87sUjQeUTVH"
+      },
+      {
+        "artist": "Juice WRLD",
+        "album": "Goodbye & Good Riddance",
+        "track": "Lucid Dreams",
+        "uri": "spotify:track:0X8DcetL926BYiPJYstJTc"
+      },
+      {
+        "artist": "Yung Gravy",
+        "album": "Snow Cougar",
+        "track": "1 Thot 2 Thot Red Thot Blue Thot",
+        "uri": "spotify:track:7LptQZjp5wgdYDQZPjOV9O"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "SAVAGE MODE II",
+        "track": "Glock In My Lap",
+        "uri": "spotify:track:6pcywuOeGGWeOQzdUyti6k"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Swimming",
+        "track": "Jet Fuel",
+        "uri": "spotify:track:2JmFRXaJrkAUD2cs6U20KG"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Money Made Me Do It",
+        "uri": "spotify:track:1ysAvOdJgUjc6CqOQxepaz"
+      },
+      {
+        "artist": "redveil",
+        "album": "learn 2 swim",
+        "track": "morphine (da ways)",
+        "uri": "spotify:track:3IGX2zBWkTGi3EfFMYzJrs"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "WHO? WHAT!",
+        "uri": "spotify:track:4KYS9GK68yeuUJ8vJfPxrq"
+      },
+      {
+        "artist": "NAV",
+        "album": "Perfect Timing",
+        "track": "Minute",
+        "uri": "spotify:track:3JWh19WsndEFg0UFRFeTiU"
+      },
+      {
+        "artist": "Isaiah Rashad",
+        "album": "The Sun's Tirade",
+        "track": "Free Lunch",
+        "uri": "spotify:track:5FX89IUKm9QJT9ymrmyK4k"
+      },
+      {
+        "artist": "XXXTENTACION",
+        "album": "?",
+        "track": "SAD!",
+        "uri": "spotify:track:3ee8Jmje8o58CHK66QrVC2"
+      },
+      {
+        "artist": "SiR",
+        "album": "Ooh Nah Nah (feat. Masego)",
+        "track": "Ooh Nah Nah (feat. Masego)",
+        "uri": "spotify:track:6NblUCwJXYkQlQ6LhcmSlQ"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scary Hours",
+        "track": "God's Plan",
+        "uri": "spotify:track:2XW4DbS6NddZxRPm5rMCeY"
+      },
+      {
+        "artist": "Drake",
+        "album": "Nothing Was The Same",
+        "track": "Too Much",
+        "uri": "spotify:track:4XKBoqWQjPdNM4t0znWu7E"
+      },
+      {
+        "artist": "Big Sean",
+        "album": "I Decided.",
+        "track": "Bigger Than Me",
+        "uri": "spotify:track:6zpXc7WJ3TqYWb02B6sKyF"
+      },
+      {
+        "artist": "Kent Jones",
+        "album": "Don't Mind",
+        "track": "Don't Mind",
+        "uri": "spotify:track:27PmvZoffODNFW2p7ehZTQ"
+      },
+      {
+        "artist": "Thee Sacred Souls",
+        "album": "Thee Sacred Souls",
+        "track": "Easier Said Than Done",
+        "uri": "spotify:track:4zIeRcsaho6lZuaXEYR1y3"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Contra",
+        "uri": "spotify:track:7u90MSvVyEjL0c8icaE7jl"
+      },
+      {
+        "artist": "Ariana Grande",
+        "album": "no tears left to cry",
+        "track": "no tears left to cry",
+        "uri": "spotify:track:5SxkdsY1ufZzoq9iXceLw9"
+      },
+      {
+        "artist": "Logic",
+        "album": "YSIV",
+        "track": "The Return",
+        "uri": "spotify:track:5ZcMWSpUeUPvO87FkSZbJB"
+      },
+      {
+        "artist": "The Chordettes",
+        "album": "The Chordettes' Best",
+        "track": "Mr. Sandman",
+        "uri": "spotify:track:1T3tP6HvCgDF8ewpRqwM1e"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Trust Fund Baby",
+        "track": "Trust Fund Baby",
+        "uri": "spotify:track:54j7EaJPDmSZYcNYvLSJ78"
+      },
+      {
+        "artist": "Duckwrth",
+        "album": "an XTRA UUGLY Mixtape",
+        "track": "MICHUUL.",
+        "uri": "spotify:track:3iGNoYKIabGohB9A0C7dKU"
+      },
+      {
+        "artist": "EMMANUELLE",
+        "album": "L'uomo d'affari / Italove",
+        "track": "Italove",
+        "uri": "spotify:track:4ll1UfyVm9we6xoTNGnMYO"
+      },
+      {
+        "artist": "Peter Cat Recording Co.",
+        "album": "Bismillah",
+        "track": "Memory Box",
+        "uri": "spotify:track:024nqC9O76nvAuIWtQGdQy"
+      },
+      {
+        "artist": "Rae Sremmurd",
+        "album": "Powerglide (feat. Juicy J)",
+        "track": "Powerglide (feat. Juicy J)",
+        "uri": "spotify:track:2yUbCEiaolfSMluDo9RMmG"
+      },
+      {
+        "artist": "REASON",
+        "album": "There You Have It",
+        "track": "Better Dayz",
+        "uri": "spotify:track:6p4NwqId47ZV4lXg8QaRpO"
+      },
+      {
+        "artist": "Rejjie Snow",
+        "album": "Cookie Chips",
+        "track": "Cookie Chips",
+        "uri": "spotify:track:4rnj9LIIotxPIe9qih7tjb"
+      },
+      {
+        "artist": "KYLE",
+        "album": "iSpy (feat. Lil Yachty)",
+        "track": "iSpy (feat. Lil Yachty)",
+        "uri": "spotify:track:2EEeOnHehOozLq4aS0n6SL"
+      },
+      {
+        "artist": "Sylvan LaCue",
+        "album": "Apologies in Advance",
+        "track": "Grateful",
+        "uri": "spotify:track:0gEZ1v0rsSayZBi7qzrRgF"
+      },
+      {
+        "artist": "Stardust",
+        "album": "Music Sounds Better With You",
+        "track": "Music Sounds Better With You",
+        "uri": "spotify:track:303ccTay2FiDTZ9fZ2AdBt"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Psycho (feat. Ty Dolla $ign)",
+        "uri": "spotify:track:3swc6WTsr7rl9DqQKQA55C"
+      },
+      {
+        "artist": "NxWorries",
+        "album": "Yes Lawd!",
+        "track": "Suede",
+        "uri": "spotify:track:4F07ku5lMBIoybFPStM2j4"
+      },
+      {
+        "artist": "Wham!",
+        "album": "Make It Big",
+        "track": "Everything She Wants",
+        "uri": "spotify:track:5hXEcqQhEjfZdbIZLO8mf2"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Over Now",
+        "uri": "spotify:track:09IOPhEh1OMe0HD9b36FJk"
+      },
+      {
+        "artist": "Rahul Nambiar",
+        "album": "Dookudu",
+        "track": "Guruvaram",
+        "uri": "spotify:track:7qVpqgrADqHIHqS9GE9RTg"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Yuck",
+        "uri": "spotify:track:0D5CXSUx8GOCHSY8KWgi9h"
+      },
+      {
+        "artist": "MF DOOM",
+        "album": "MM...FOOD",
+        "track": "One Beer",
+        "uri": "spotify:track:4BnrGx9tWNF8aiXl1UhDBa"
+      },
+      {
+        "artist": "Flo Rida",
+        "album": "Mail on Sunday",
+        "track": "Low (feat. T-Pain)",
+        "uri": "spotify:track:0CAfXk7DXMnon4gLudAp7J"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "1.5",
+        "uri": "spotify:track:2wOXxtHZgRkkrkEbKLzzqs"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "STARGAZING",
+        "uri": "spotify:track:7wBJfHzpfI3032CSD7CE2m"
+      },
+      {
+        "artist": "Khalid",
+        "album": "American Teen",
+        "track": "Saved",
+        "uri": "spotify:track:248OFOZef6ShXv6DGgbnxU"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "R.I.P. SCREW",
+        "uri": "spotify:track:4SZepBIPDRwPaHIjAKwRDb"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Summer Knights",
+        "uri": "spotify:track:2NDXdxZjbm5EbbEEDSKXQV"
+      },
+      {
+        "artist": "Duke Dumont",
+        "album": "Duality",
+        "track": "Ocean Drive",
+        "uri": "spotify:track:4b93D55xv3YCH5mT4p6HPn"
+      },
+      {
+        "artist": "Logic",
+        "album": "YSIV",
+        "track": "YSIV",
+        "uri": "spotify:track:3irKogkH8P1B1nONmEcHgY"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Distance (feat. Issa Gold & Erick The Architect)",
+        "uri": "spotify:track:5jJYJthaXUdkHKmiS6TuXe"
+      },
+      {
+        "artist": "Famous Dex",
+        "album": "Dex Meets Dexter",
+        "track": "JAPAN",
+        "uri": "spotify:track:5PTG6rrL6EPFD9E2QMI2pl"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "CAN'T SAY",
+        "uri": "spotify:track:27a1mYSG5tYg7dmEjWBcmL"
+      },
+      {
+        "artist": "1999 WRITE THE FUTURE",
+        "album": "hella (˃̣̣̥╭╮˂̣̣̥) ✧ ♡ ‧º·˚",
+        "track": "SPIKY BOiz",
+        "uri": "spotify:track:6VY0e7CeU2vb3hgU9X5eDR"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "track": "DEVASTATED",
+        "uri": "spotify:track:4ntsD33Pgsgk8rUyZLLiUV"
+      },
+      {
+        "artist": "Eliza Rose",
+        "album": "B.O.T.A. (Baddest Of Them All)",
+        "track": "B.O.T.A. (Baddest Of Them All) - Edit",
+        "uri": "spotify:track:39JofJHEtg8I4fSyo7Imft"
+      },
+      {
+        "artist": "Lucky Daye",
+        "album": "Soft",
+        "track": "Soft",
+        "uri": "spotify:track:3IKUHOBOktlBP6kryzg1AS"
+      },
+      {
+        "artist": "Future",
+        "album": "FUTURE",
+        "track": "Mask Off",
+        "uri": "spotify:track:0VgkVdmE4gld66l8iyGjgx"
+      },
+      {
+        "artist": "Breakbot",
+        "album": "By Your Side",
+        "track": "Baby I'm Yours - feat. Irfrane",
+        "uri": "spotify:track:7oGwQOTkMB9Sk3DIKJLd5F"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Righteous Minds",
+        "uri": "spotify:track:7dFGkZbmm6cVlI28bfMaWE"
+      },
+      {
+        "artist": "Khalid",
+        "album": "OTW",
+        "track": "OTW",
+        "uri": "spotify:track:6Hgh47WXVKtXN5zGOu0hjI"
+      },
+      {
+        "artist": "Giveon",
+        "album": "Spotify Singles",
+        "track": "Untitled (How Does It Feel)",
+        "uri": "spotify:track:6ALoVRxwV5KxaSWyejnmvi"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Otherside",
+        "uri": "spotify:track:4qWCFTuNnmGNdY4egtb4ZY"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Something Different",
+        "track": "Something Different",
+        "uri": "spotify:track:1De8FIr9KBPm5owb0tmRKv"
+      },
+      {
+        "artist": "The Alchemist",
+        "album": "Yacht Rock 2",
+        "track": "Ocean Prime (feat. Boldy James)",
+        "uri": "spotify:track:5467KZaTToEB680WvOd9w5"
+      },
+      {
+        "artist": "Khalid",
+        "album": "American Teen",
+        "track": "8TEEN",
+        "uri": "spotify:track:5bgwqaRSS3M8WHWruHgSL5"
+      },
+      {
+        "artist": "Jo'zzy",
+        "album": "Pleasantville",
+        "track": "Pleasantville",
+        "uri": "spotify:track:3uIEXhEy0PWXWW4Lfo804E"
+      },
+      {
+        "artist": "Cool Company",
+        "album": "Slice of Paradise",
+        "track": "The Wave",
+        "uri": "spotify:track:6Z4jTbdr1d5XHAa1fzjraj"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "out for the night",
+        "uri": "spotify:track:0ZKKJTv21zJpNrKiL0LYyV"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Hit This Hard",
+        "uri": "spotify:track:61jnrkPHpLumBf1kqGpRRt"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Maniac",
+        "uri": "spotify:track:5uNhWDGP1gXxS2IZl2alGx"
+      },
+      {
+        "artist": "Okey Dokey",
+        "album": "Tell All Your Friend",
+        "track": "Threw My Love Away",
+        "uri": "spotify:track:0Iup86klgNGLUK4LKAkNpY"
+      },
+      {
+        "artist": "Aminé",
+        "album": "Good For You",
+        "track": "Turf",
+        "uri": "spotify:track:6ODTw5ivAheWBql4tCiNkl"
+      },
+      {
+        "artist": "Peso Pluma",
+        "album": "BELLAKEO",
+        "track": "BELLAKEO",
+        "uri": "spotify:track:05WVKTdZhlIMX4qqMLuo0f"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "CAROUSEL",
+        "uri": "spotify:track:7KZ5MMVgBVox9ycroB2UrI"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Funky Ho'$",
+        "uri": "spotify:track:1rZvU5sb2E8LuJTAqEdAiw"
+      },
+      {
+        "artist": "Her's",
+        "album": "Songs of Her's",
+        "track": "What Once Was",
+        "uri": "spotify:track:1XrSjpNe49IiygZfzb74pk"
+      },
+      {
+        "artist": "Musical Youth",
+        "album": "Anthology",
+        "track": "Pass The Dutchie",
+        "uri": "spotify:track:1BkY0N8ChFk2mdLbAUu8ZK"
+      },
+      {
+        "artist": "mike.",
+        "album": "Frio",
+        "track": "Frio",
+        "uri": "spotify:track:2e3OgIbfZw5deCjLMGatSS"
+      },
+      {
+        "artist": "Venerus",
+        "album": "Love Anthem",
+        "track": "Love Anthem, No. 1",
+        "uri": "spotify:track:3oBVv54hTMSYXXJGxO5JxJ"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "track": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+        "uri": "spotify:track:4GL9GMX9t7Qkprvf1YighZ"
+      },
+      {
+        "artist": "Tyler, The Creator",
+        "album": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+        "track": "Lights On (feat. Ryan Beatty & Santigold)",
+        "uri": "spotify:track:3ILZNhiwZtZ3fVVI65WC6e"
+      },
+      {
+        "artist": "Alesso",
+        "album": "Is That For Me",
+        "track": "Is That For Me",
+        "uri": "spotify:track:2KwojFDebQV4J2b0JMRR5Q"
+      },
+      {
+        "artist": "Ayo & Teo",
+        "album": "Lit Right Now",
+        "track": "Lit Right Now",
+        "uri": "spotify:track:3ROfLScNbTGtKdjEzbx74b"
+      },
+      {
+        "artist": "Franke",
+        "album": "Bad Tattoo",
+        "track": "Bad Tattoo",
+        "uri": "spotify:track:5yoTiUeOylABmbtMdf8WHP"
+      },
+      {
+        "artist": "Lucky Daye",
+        "album": "Table For Two",
+        "track": "How Much Can A Heart Take (feat. Yebba)",
+        "uri": "spotify:track:5SFssNXGjeOxdAnECfgttm"
+      },
+      {
+        "artist": "JID",
+        "album": "The Never Story",
+        "track": "Hereditary",
+        "uri": "spotify:track:0fK60qLRIpyT05TXzoSBY0"
+      },
+      {
+        "artist": "BROCKHAMPTON",
+        "album": "SATURATION III",
+        "track": "RENTAL",
+        "uri": "spotify:track:4O9tOyMOq8Oioun2MsULH5"
+      },
+      {
+        "artist": "Apollo Brown",
+        "album": "Timberlan'd Up (feat. Royce Da 5'9\")",
+        "track": "Timberlan'd Up (feat. Royce Da 5'9\")",
+        "uri": "spotify:track:3n3LOZwehbW5YNTOaujHTH"
+      },
+      {
+        "artist": "Home",
+        "album": "Odyssey",
+        "track": "Come Back Down",
+        "uri": "spotify:track:0Z5r4cmTjEyA62tfSbAbFD"
+      },
+      {
+        "artist": "Ty Dolla $ign",
+        "album": "Clout (feat. 21 Savage)",
+        "track": "Clout (feat. 21 Savage)",
+        "uri": "spotify:track:5gZhBSqu6foVqcB1hSAkb3"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "To My Grave",
+        "uri": "spotify:track:0iIUmsrVL2sgGnX33oDsC7"
+      },
+      {
+        "artist": "Ryan Trey",
+        "album": "august",
+        "track": "Mutual Butterflies",
+        "uri": "spotify:track:531MBHrtGF6nAkK4zUafi9"
+      },
+      {
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "track": "The Lazy Song",
+        "uri": "spotify:track:386RUes7n1uM1yfzgeUuwp"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Cokewhite (feat. Pusha T)",
+        "uri": "spotify:track:1jCzgZFEl8RCUxDRvAGWUF"
+      },
+      {
+        "artist": "Migos",
+        "album": "Stir Fry",
+        "track": "Stir Fry",
+        "uri": "spotify:track:4fndbjoz1qJyK6JcLdKfzm"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Congratulations",
+        "uri": "spotify:track:3a1lNhkSLSkpJE4MSHpDu9"
+      },
+      {
+        "artist": "A$AP Ferg",
+        "album": "ALWAYS STRIVE AND PROSPER",
+        "track": "Let You Go",
+        "uri": "spotify:track:2r9ShGMVZNZ4yzIkku3Awk"
+      },
+      {
+        "artist": "Kid Cudi",
+        "album": "Man On The Moon II: The Legend Of Mr. Rager",
+        "track": "Mr. Rager",
+        "uri": "spotify:track:393MDhe62s8hbH8ETrlxe5"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Rack In My Sleep (feat. 88GLAM)",
+        "uri": "spotify:track:4Mh7CPtUTbF72KSFxlUn13"
+      },
+      {
+        "artist": "Kirk Knight",
+        "album": "Iiwii",
+        "track": "Run It Back (Freestyle)",
+        "uri": "spotify:track:7lAUHzk69OUCHc4qg8j0zB"
+      },
+      {
+        "artist": "Masego",
+        "album": "Studying Abroad: Extended Stay",
+        "track": "Mystery Lady",
+        "uri": "spotify:track:0bkTdkWwGk3OGFX0afD3Wj"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Up There",
+        "uri": "spotify:track:2rKmNEYrQxaOPZrOWKZpOc"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Cold",
+        "uri": "spotify:track:1QWmKmqhv5zcsS3v45FNl0"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Ralo",
+        "uri": "spotify:track:4m21W5fWeVx63he1dNgGlM"
+      },
+      {
+        "artist": "Oh Wonder",
+        "album": "Oh Wonder",
+        "track": "Landslide",
+        "uri": "spotify:track:3X3mfRMRaPJRiIMDMQtSkd"
+      },
+      {
+        "artist": "Giveon",
+        "album": "Fields",
+        "track": "Fields",
+        "uri": "spotify:track:0zh4UsKtESn0jq9nstzx0u"
+      },
+      {
+        "artist": "Labi Siffre",
+        "album": "Crying, Laughing, Loving, Lying",
+        "track": "My Song",
+        "uri": "spotify:track:2EQWbkcNoKPOXQtJM7nqRV"
+      },
+      {
+        "artist": "Felly",
+        "album": "Wild Strawberries",
+        "track": "Bring Me My Money",
+        "uri": "spotify:track:3JICURjxOngSbii72KTn5S"
+      },
+      {
+        "artist": "Logic",
+        "album": "Everyday",
+        "track": "Everyday",
+        "uri": "spotify:track:6zOhgKfbMiQWToE6K13s2s"
+      },
+      {
+        "artist": "Majid Jordan",
+        "album": "Wildest Dreams",
+        "track": "Waves of Blue",
+        "uri": "spotify:track:4lKe0viSvv8ckoTPvHBih1"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Tap (feat. Meek Mill)",
+        "uri": "spotify:track:5rU6kDNXZLXIinFezpbWbO"
+      },
+      {
+        "artist": "Her's",
+        "album": "Invitation to Her's",
+        "track": "Harvey",
+        "uri": "spotify:track:1zFbBrZmJr1Z49HYe84dBg"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Faces",
+        "track": "Thumbalina",
+        "uri": "spotify:track:0e3F544UPt7TwDluSehl8w"
+      },
+      {
+        "artist": "Jay Prince",
+        "album": "Smile Good",
+        "track": "Where You Belong",
+        "uri": "spotify:track:1ohXrU5DLEfUlfo4tIYbqJ"
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "album": "DAMN.",
+        "track": "HUMBLE.",
+        "uri": "spotify:track:7KXjTSCq5nL1LoYtL7XAwS"
+      },
+      {
+        "artist": "Drake",
+        "album": "Views",
+        "track": "Hotline Bling",
+        "uri": "spotify:track:0wwPcA6wtMf6HUMpIRdeP7"
+      },
+      {
+        "artist": "Lucky Daye",
+        "album": "HERicane",
+        "track": "HERicane",
+        "uri": "spotify:track:64fITmtln0OJqcxPf09vnY"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "AUSTIN",
+        "track": "Too Cool To Die",
+        "uri": "spotify:track:4Q9r41IbGhNCTdgjxH9w8t"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Candy Paint",
+        "uri": "spotify:track:32lItqlMi4LBhb4k0BaSaC"
+      },
+      {
+        "artist": "Sylvan LaCue",
+        "album": "5:55",
+        "track": "5:55",
+        "uri": "spotify:track:2qUENehsdArdZKAjKKfLHU"
+      },
+      {
+        "artist": "Kota the Friend",
+        "album": "Saturday",
+        "track": "Saturday",
+        "uri": "spotify:track:7lituLyXEfSAQnP0nE111T"
+      },
+      {
+        "artist": "AJ Mitchell",
+        "album": "Used to Be",
+        "track": "Used to Be",
+        "uri": "spotify:track:4ROD16K3Ju9rmnYWJuzKTS"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Rich & Sad",
+        "uri": "spotify:track:2VdT56BGpdqNHUgOe1j5vc"
+      },
+      {
+        "artist": "Michael Giacchino",
+        "album": "Up",
+        "track": "Married Life",
+        "uri": "spotify:track:7iocNjLrxPHLl8njgRlv5U"
+      },
+      {
+        "artist": "Current Blue",
+        "album": "fever dream",
+        "track": "fever dream",
+        "uri": "spotify:track:68foAtx812B9N6s6j6EZsG"
+      },
+      {
+        "artist": "The Internet",
+        "album": "Hive Mind",
+        "track": "Wanna Be",
+        "uri": "spotify:track:5GjisoOfsN8qagrax01T4y"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Third Eye Sh*t",
+        "uri": "spotify:track:046k0tkM8kI1D1UbmSsIsW"
+      },
+      {
+        "artist": "Selena Gomez",
+        "album": "Wolves",
+        "track": "Wolves",
+        "uri": "spotify:track:0tBbt8CrmxbjRP0pueQkyU"
+      },
+      {
+        "artist": "Lil Skies",
+        "album": "Lust",
+        "track": "Lust",
+        "uri": "spotify:track:3zmySiBrjkMtbbtKSff2Pd"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Blame It On Me",
+        "uri": "spotify:track:1ZemPoaj7LBj1RAQrb89EC"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Invitation",
+        "track": "Invitation",
+        "uri": "spotify:track:3L4suJQV84AAOAE4FRefti"
+      },
+      {
+        "artist": "Denzel Curry",
+        "album": "Imperial",
+        "track": "Zenith",
+        "uri": "spotify:track:67T0J1IDGgRwNMp3vWYaVb"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "gun smoke",
+        "uri": "spotify:track:4f1XXGjZZ9EkFkrbPJek6X"
+      },
+      {
+        "artist": "Maroon 5",
+        "album": "Overexposed",
+        "track": "Love Somebody",
+        "uri": "spotify:track:3ISTk34XFWxJJnUs5youLa"
+      },
+      {
+        "artist": "Smino",
+        "album": "Luv 4 Rent",
+        "track": "Curtains",
+        "uri": "spotify:track:1t1k0q2YXX5dD0aVUrV2SW"
+      },
+      {
+        "artist": "Frank Ocean",
+        "album": "Blonde",
+        "track": "Ivy",
+        "uri": "spotify:track:2ZWlPOoWh0626oTaHrnl2a"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Go To Hell",
+        "uri": "spotify:track:6oHalJC4hM1cS4tt6fhzLH"
+      },
+      {
+        "artist": "Killer Mike",
+        "album": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
+        "track": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
+        "uri": "spotify:track:2RHKzvzdxXANTOKtbZnuLo"
+      },
+      {
+        "artist": "J. Cole",
+        "album": "KOD",
+        "track": "ATM",
+        "uri": "spotify:track:2UciqgwVDwro0fev3MFbxJ"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "Fallin'",
+        "track": "Fallin'",
+        "uri": "spotify:track:1pkK7kZtxGBoXb583vDS9E"
+      },
+      {
+        "artist": "Luis Fonsi",
+        "album": "Despacito Feat. Justin Bieber",
+        "track": "Despacito - Remix",
+        "uri": "spotify:track:6rPO02ozF3bM7NnOV4h6s2"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Desperado (feat. Meechy Darko, Zombie Juice & Kirk Knight)",
+        "uri": "spotify:track:5YgDRYwEHb29C85ZMjePUE"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Yard (feat. Haile of WSTRN) (feat. Haile)",
+        "uri": "spotify:track:7d4WkbOVqZ8KeQxtjTL3zi"
+      },
+      {
+        "artist": "AP Dhillon",
+        "album": "Summer High",
+        "track": "Summer High",
+        "uri": "spotify:track:1aL9518P5G72N92b48tuKw"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "break da law",
+        "uri": "spotify:track:5ZSIExfQuVv69tw5Qw3yDl"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Only The Beginning",
+        "track": "Nobody Gotta Know",
+        "uri": "spotify:track:5RKJ0b14LUw5Xvr50fpj83"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "pad lock",
+        "uri": "spotify:track:5stbfxsPi8gcOH2LCuA4Le"
+      },
+      {
+        "artist": "Salim–Sulaiman",
+        "album": "Rab Ne Bana Di Jodi",
+        "track": "Haule Haule",
+        "uri": "spotify:track:2UKK9UEbKlykbmLVP1zWIQ"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "44 More",
+        "uri": "spotify:track:3e7Y6sfFlIdBMJhX7wpqVO"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "COFFEE BEAN",
+        "uri": "spotify:track:6vnfObZ4Ys70SBAtti1xZ9"
+      },
+      {
+        "artist": "Logic",
+        "album": "Everybody",
+        "track": "Black SpiderMan",
+        "uri": "spotify:track:7BKUWh5sdtdS17crohRe4L"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "track": "AMERIKKKAN IDOL",
+        "uri": "spotify:track:0O5brqyThK4RkcbhGGwJZU"
+      },
+      {
+        "artist": "Tommy Richman",
+        "album": "MILLION DOLLAR BABY",
+        "track": "MILLION DOLLAR BABY",
+        "uri": "spotify:track:7fzHQizxTqy8wTXwlrgPQQ"
+      },
+      {
+        "artist": "闻人听書_",
+        "album": "一笑江湖",
+        "track": "一笑江湖 - DJ弹鼓版",
+        "uri": "spotify:track:0Zhz2M5XyepnbqxXk1Zd4O"
+      },
+      {
+        "artist": "Frank Ocean",
+        "album": "Blonde",
+        "track": "Pink + White",
+        "uri": "spotify:track:3xKsf9qdS1CyvXSMEid6g8"
+      },
+      {
+        "artist": "Giveon",
+        "album": "When It's All Said And Done... Take Time",
+        "track": "All To Me",
+        "uri": "spotify:track:5JycxhApZmzbA4xSwvqh6k"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Zulu Screams (feat. Maleek Berry & Bibi Bourelly)",
+        "uri": "spotify:track:2YRDTr0reanrGZOTsWXdek"
+      },
+      {
+        "artist": "Pritam",
+        "album": "Singh is Kinng (Original Motion Picture Soundtrack)",
+        "track": "Teri Ore",
+        "uri": "spotify:track:7lJNQFaBPlm3XhNUWnVk55"
+      },
+      {
+        "artist": "Marlon Craft",
+        "album": "While We're Here",
+        "track": "World Champ",
+        "uri": "spotify:track:4VIznE5GISZrFlTxFNE7Pc"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "No Lie (feat. Wizkid)",
+        "uri": "spotify:track:224EQMt8CpNPV98j9L4iMJ"
+      },
+      {
+        "artist": "Jordan Ward",
+        "album": "FORWARD",
+        "track": "WHITE CROCS (with Ryan Trey)",
+        "uri": "spotify:track:0VNe1ZE8U2baB3JKZpEBok"
+      },
+      {
+        "artist": "Ramz",
+        "album": "Barking",
+        "track": "Barking",
+        "uri": "spotify:track:2U5cq89GCnsR1yixKkC8d5"
+      },
+      {
+        "artist": "Jalen Ngonda",
+        "album": "Come Around and Love Me",
+        "track": "If You Don't Want My Love",
+        "uri": "spotify:track:4A48ckONJNoXU5smWT9CeG"
+      },
+      {
+        "artist": "Frank Ocean",
+        "album": "Blonde",
+        "track": "Nikes",
+        "uri": "spotify:track:19YKaevk2bce4odJkP5L22"
+      },
+      {
+        "artist": "Anderson .Paak",
+        "album": "Ventura",
+        "track": "Come Home (feat. André 3000)",
+        "uri": "spotify:track:6RpunyUP44SDweJPDScLSF"
+      },
+      {
+        "artist": "Alfie Templeman",
+        "album": "Don't Go Wasting Time",
+        "track": "Movies",
+        "uri": "spotify:track:6PHXRx0ZOrGk7OJ9C29cTm"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "HOUSTONFORNICATION",
+        "uri": "spotify:track:58TaFP5j5i9swOf584yon2"
+      },
+      {
+        "artist": "Calvin Harris",
+        "album": "18 Months",
+        "track": "Sweet Nothing (feat. Florence Welch)",
+        "uri": "spotify:track:24LS4lQShWyixJ0ZrJXfJ5"
+      },
+      {
+        "artist": "Roy Woods",
+        "album": "Exis",
+        "track": "Drama (feat. Drake)",
+        "uri": "spotify:track:0PXp9QxBfSKGGpWUNaws2X"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "SICKO MODE",
+        "uri": "spotify:track:2xLMifQCjDGFmkHkpNLD9h"
+      },
+      {
+        "artist": "Sabrina Claudio",
+        "album": "About Time",
+        "track": "Belong to You (feat. 6LACK)",
+        "uri": "spotify:track:2I88NEWpKrAPZuapXNV5G6"
+      },
+      {
+        "artist": "Ginchy",
+        "album": "Aruarian Dance",
+        "track": "Aruarian Dance",
+        "uri": "spotify:track:76iLrxwkfFZfxG4vrCYNAs"
+      },
+      {
+        "artist": "Drake",
+        "album": "Thank Me Later",
+        "track": "Fancy",
+        "uri": "spotify:track:3fpTMuD1u3gJlVI4FadVHs"
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "album": "The Heist",
+        "track": "Can't Hold Us (feat. Ray Dalton)",
+        "uri": "spotify:track:3bidbhpOYeV4knp8AIu8Xn"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Invitation",
+        "track": "Turn It Off",
+        "uri": "spotify:track:4aa8abhrII2D2REphtZlaq"
+      },
+      {
+        "artist": "Khalid",
+        "album": "Suncity",
+        "track": "Suncity (feat. Empress Of)",
+        "uri": "spotify:track:4AhSkRYioEIfGvCV19peYN"
+      },
+      {
+        "artist": "Marc E. Bassy",
+        "album": "Groovy People",
+        "track": "Dirty Water",
+        "uri": "spotify:track:52rbzvOCmHgprzUaMqZEPK"
+      },
+      {
+        "artist": "SiR",
+        "album": "Her Too",
+        "track": "New LA (feat. Anderson .Paak & King Mez)",
+        "uri": "spotify:track:2b9eFUxPgyBmshXyNV3UIw"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Where It'$ At?",
+        "uri": "spotify:track:4rkfCWtPe63QU1HXsVTcpc"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Snakes",
+        "uri": "spotify:track:3dkLUA4zs07CnhchRuRV6J"
+      },
+      {
+        "artist": "Ralph Castelli",
+        "album": "Morning Sex",
+        "track": "Morning Sex",
+        "uri": "spotify:track:2fGRJzoiYJYAzlQAyBONMb"
+      },
+      {
+        "artist": "Sona Mohapatra",
+        "album": "Fukrey",
+        "track": "Ambarsariya",
+        "uri": "spotify:track:4qRcjFkFqSpLBzcbLDt7HL"
+      },
+      {
+        "artist": "Big Sean",
+        "album": "I Decided.",
+        "track": "Bounce Back",
+        "uri": "spotify:track:0SGkqnVQo9KPytSri1H6cF"
+      },
+      {
+        "artist": "Drake",
+        "album": "More Life",
+        "track": "4422",
+        "uri": "spotify:track:2fkeWbM6iqTw7oGHTYm2lw"
+      },
+      {
+        "artist": "Domo Genesis",
+        "album": "Genesis",
+        "track": "Dapper (feat. Anderson .Paak)",
+        "uri": "spotify:track:2Nh2cMryoXl7BrZoIeN2Pr"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "God's Plan",
+        "uri": "spotify:track:2VWbHHhWnMzKWPUs4IEEW9"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "a lot",
+        "uri": "spotify:track:2t8yVaLvJ0RenpXUIAC52d"
+      },
+      {
+        "artist": "Hotel Ugly",
+        "album": "I Think I Left the Stove On",
+        "track": "I Think I Left the Stove On",
+        "uri": "spotify:track:1XcQwxhNmgzGVW76JfBDPX"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Tussin (feat. Young Thug)",
+        "uri": "spotify:track:1KAObz8ZfyuMj4YTxHIrfA"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "World Domination",
+        "uri": "spotify:track:1W4qc7UnAuRmT93W8Ad1t1"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "OK (feat. Lil Durk)",
+        "uri": "spotify:track:1Kg99KJWHMNn0IgnEwvWR0"
+      },
+      {
+        "artist": "K. S. Chithra",
+        "album": "Varsham",
+        "track": "Nuvvasthanante",
+        "uri": "spotify:track:1JLtM0dEzGsytDmvfzLAue"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "That’s How You Feel",
+        "uri": "spotify:track:0SVsEdvot6vU4byv5yW0oj"
+      },
+      {
+        "artist": "Drake",
+        "album": "I'm Upset",
+        "track": "I'm Upset",
+        "uri": "spotify:track:54oMZ3blwWwuPN4wEoG5mk"
+      },
+      {
+        "artist": "Jason Derulo",
+        "album": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+        "track": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+        "uri": "spotify:track:6kex4EBAj0WHXDKZMEJaaF"
+      },
+      {
+        "artist": "¥$",
+        "album": "VULTURES 1",
+        "track": "PROBLEMATIC",
+        "uri": "spotify:track:5GtUTcvOx52F5648wXQfc7"
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "album": "Thrift Shop (feat. Wanz)",
+        "track": "Thrift Shop (feat. Wanz)",
+        "uri": "spotify:track:1CmUZGtH29Kx36C1Hleqlz"
+      },
+      {
+        "artist": "Victor Internet",
+        "album": "U Got My",
+        "track": "U Got My",
+        "uri": "spotify:track:3ZqAtgdjVVq82hP09xzRUn"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Too Young",
+        "uri": "spotify:track:4SYUUlkScpNR1QvPscXf8t"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "These Girls",
+        "track": "These Girls",
+        "uri": "spotify:track:1Fc4NYNUePCq7ab5ftg7Ty"
+      },
+      {
+        "artist": "Roy Woods",
+        "album": "Say Less",
+        "track": "Something New",
+        "uri": "spotify:track:4d2iGFWFAMt6AE7SQ7Psxh"
+      },
+      {
+        "artist": "Drake",
+        "album": "Fake Love",
+        "track": "Fake Love",
+        "uri": "spotify:track:6NMNgWgEAzde5M8U3lc6FN"
+      },
+      {
+        "artist": "JID",
+        "album": "DiCaprio 2",
+        "track": "Skrawberries (feat. BJ The Chicago Kid)",
+        "uri": "spotify:track:076jPFqxYEu1me4zsTBWJ0"
+      },
+      {
+        "artist": "Ty Dolla $ign",
+        "album": "Beach House 3",
+        "track": "Love U Better (feat. Lil Wayne & The-Dream)",
+        "uri": "spotify:track:270aLuFCbX32hhBr8MQyPM"
+      },
+      {
+        "artist": "Fratelli Quintale",
+        "album": "Tra il bar e la favola",
+        "track": "Monnalisa",
+        "uri": "spotify:track:0RLWYXGtK0oQcgGiUpqBx4"
+      },
+      {
+        "artist": "BlocBoy JB",
+        "album": "Look Alive (feat. Drake)",
+        "track": "Look Alive (feat. Drake)",
+        "uri": "spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "I'm Ready",
+        "uri": "spotify:track:0zVDNjVPGARqeYN7tOHd9C"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "good day",
+        "uri": "spotify:track:2LqoYvMudv9xoTqNLFKILj"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "No Option",
+        "uri": "spotify:track:6M0IsaUX4GNyto4niSegfI"
+      },
+      {
+        "artist": "Atif Aslam",
+        "album": "Race",
+        "track": "Pehli Nazar Mein",
+        "uri": "spotify:track:17opN752ZQpNuoptelsNQ1"
+      },
+      {
+        "artist": "Jordan Ward",
+        "album": "FORWARD",
+        "track": "CHERIMOYA - BONUS",
+        "uri": "spotify:track:0k4S8MgCg1CKWUy5hNV8GA"
+      },
+      {
+        "artist": "Earth, Wind & Fire",
+        "album": "You Want My Love",
+        "track": "You Want My Love",
+        "uri": "spotify:track:5BQf3eyCsoSP5jNGx9sPdD"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "track": "LEGENDARY (feat. J. Cole)",
+        "uri": "spotify:track:5csdNgCD64XzhsyoRlhzsa"
+      },
+      {
+        "artist": "IDK",
+        "album": "Lil Arrogant (feat. Joey Bada$$ & Russ)",
+        "track": "Lil Arrogant (feat. Joey Bada$$ & Russ)",
+        "uri": "spotify:track:2DP3SfAM8g1hKPXKWyDptv"
+      },
+      {
+        "artist": "Okey Dokey",
+        "album": "Tell All Your Friend",
+        "track": "Modern Chemistry",
+        "uri": "spotify:track:0R0QQMC6StQ78L2LKeVozG"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Warm It Up",
+        "uri": "spotify:track:3W4JFzOQdo5J2Wgt9DFg24"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "92 Explorer",
+        "uri": "spotify:track:1D2L6MefbXon28PzIk9I3r"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Invitation",
+        "track": "Boomerang",
+        "uri": "spotify:track:0abraIFcoZc56LWrCQl4EW"
+      },
+      {
+        "artist": "NF",
+        "album": "Perception",
+        "track": "Let You Down",
+        "uri": "spotify:track:6mrKP2jyIQmM0rw6fQryjr"
+      },
+      {
+        "artist": "Lil Wayne",
+        "album": "Tha Carter V",
+        "track": "Let It All Work Out",
+        "uri": "spotify:track:2PGspMqtaZGhs7nFaHolmJ"
+      },
+      {
+        "artist": "EI8HT",
+        "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+        "track": "Silk & Cologne (EI8HT & Offset) - Spider-Verse Remix",
+        "uri": "spotify:track:10C2sCUoYnVG5H3052T8qE"
+      },
+      {
+        "artist": "Smoke DZA",
+        "album": "Not for Sale",
+        "track": "The Mood",
+        "uri": "spotify:track:4Tzdcaz2lex5yr84oSsoY8"
+      },
+      {
+        "artist": "Kevin Abstract",
+        "album": "American Boyfriend: A Suburban Love Story",
+        "track": "I Do (End Credits)",
+        "uri": "spotify:track:3mUmAz8WCJXg3XjHfzcqLv"
+      },
+      {
+        "artist": "Hariharan",
+        "album": "Alaipayuthey (Original Motion Picture Soundtrack)",
+        "track": "Pachai Nirame",
+        "uri": "spotify:track:6LgkoexFvjZ5V9qG8mYV3l"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Mob Ties",
+        "uri": "spotify:track:7txPE73wHbuXYkM1h8zNrG"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Invitation",
+        "track": "M.I.A.",
+        "uri": "spotify:track:6gttjO6hxvBiPI9YcQtG4g"
+      },
+      {
+        "artist": "XXXTENTACION",
+        "album": "?",
+        "track": "infinity (888) - feat. Joey Bada$$",
+        "uri": "spotify:track:7J2gyNghNTzl4EsLhXp01Q"
+      },
+      {
+        "artist": "Gorillaz",
+        "album": "Plastic Beach",
+        "track": "Rhinestone Eyes",
+        "uri": "spotify:track:1foMv2HQwfQ2vntFf9HFeG"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Crew REMIX (feat. Gucci Mane, Brent Faiyaz & Shy Glizzy)",
+        "track": "Crew REMIX (feat. Gucci Mane, Brent Faiyaz & Shy Glizzy)",
+        "uri": "spotify:track:5geeTRRcsIg0MS5TvtBtHU"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "VULTURES 1",
+        "track": "BURN",
+        "uri": "spotify:track:4E3XDKil4ElJt6sXuz5cc6"
+      },
+      {
+        "artist": "IAMNOBODI",
+        "album": "House Hues",
+        "track": "Separated",
+        "uri": "spotify:track:57VfoS1TXAp5Mx7l12MDNa"
+      },
+      {
+        "artist": "Arin Ray",
+        "album": "Platinum Fire",
+        "track": "Reckless",
+        "uri": "spotify:track:1BybndP1YgPEIk6WUnL6kT"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Why Don't We Just",
+        "track": "Why Don't We Just",
+        "uri": "spotify:track:7HUCGA1RG6zO68rpcn2s3J"
+      },
+      {
+        "artist": "Abhay Jodhpurkar",
+        "album": "Zero",
+        "track": "Mere Naam Tu",
+        "uri": "spotify:track:5fZ0oNVVUQe11KGpgcDCrY"
+      },
+      {
+        "artist": "Anuradha Sriram",
+        "album": "Taal",
+        "track": "Ishq Bina",
+        "uri": "spotify:track:4eSptlk4boHEHiFKHnsyoF"
+      },
+      {
+        "artist": "Rudy Mancuso",
+        "album": "Lento",
+        "track": "Lento",
+        "uri": "spotify:track:3TqVwe3IkJGvnFpbYvh9pu"
+      },
+      {
+        "artist": "Logan Paul",
+        "album": "2016",
+        "track": "2016",
+        "uri": "spotify:track:1hr8c67jxMqSgJwX2d7jH0"
+      },
+      {
+        "artist": "Brent Faiyaz",
+        "album": "Sonder Son",
+        "track": "Talk 2 U",
+        "uri": "spotify:track:1Xm9CQRcJbOgTCpKCpS9s5"
+      },
+      {
+        "artist": "Lil Baby",
+        "album": "Yes Indeed",
+        "track": "Yes Indeed",
+        "uri": "spotify:track:1wsf1YFQSYND45y0GzJmf7"
+      },
+      {
+        "artist": "JPEGMAFIA",
+        "album": "SCARING THE HOES",
+        "track": "Lean Beef Patty",
+        "uri": "spotify:track:3FsqOTQT3d7c296eStnEnl"
+      },
+      {
+        "artist": "Anderson .Paak",
+        "album": "Malibu",
+        "track": "Put Me Thru",
+        "uri": "spotify:track:70SjyVMzhmMeJQD8hOmIBp"
+      },
+      {
+        "artist": "Maroon 5",
+        "album": "Girls Like You (feat. Cardi B)",
+        "track": "Girls Like You (feat. Cardi B)",
+        "uri": "spotify:track:1g0r3J85BWQsRf2GwSUhlb"
+      },
+      {
+        "artist": "Odd Future",
+        "album": "The OF Tape Vol. 2",
+        "track": "Analog 2 (feat. Tyler, The Creator, Frank Ocean & Sydney Bennett)",
+        "uri": "spotify:track:0d8ONGx43ZprlHlmLZODpD"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "At What Cost",
+        "track": "Herside Story",
+        "uri": "spotify:track:564oa00vY05d1uYnTEAAmE"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Sugar Wraith",
+        "uri": "spotify:track:0MrRAUcB8AZiB9ue2VOBYe"
+      },
+      {
+        "artist": "Kota the Friend",
+        "album": "Anything.",
+        "track": "Nola (feat. Khary & Hello Oshay)",
+        "uri": "spotify:track:4UZ946wdMb9zmtdtrRz6rg"
+      },
+      {
+        "artist": "Lucky Daye",
+        "album": "Painted",
+        "track": "Buying Time",
+        "uri": "spotify:track:0j4LxNykyiQL2EFjZSU7p6"
+      },
+      {
+        "artist": "Migos",
+        "album": "Culture II",
+        "track": "Narcos",
+        "uri": "spotify:track:0wbnC9AUenxp613TYaJsGK"
+      },
+      {
+        "artist": "Migos",
+        "album": "Culture II",
+        "track": "Walk It Talk It",
+        "uri": "spotify:track:6n4U3TlzUGhdSFbUUhTvLP"
+      },
+      {
+        "artist": "Sylvan LaCue",
+        "album": "Best Me",
+        "track": "Best Me",
+        "uri": "spotify:track:1EbEGzbMeEAo3RDFWKhasW"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Overnight",
+        "uri": "spotify:track:3s3VVLE1kB7Xk2AoJKlGmr"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "//error",
+        "uri": "spotify:track:0UntHP0WH8l247JkR2FfBh"
+      },
+      {
+        "artist": "Makoto Matsushita",
+        "album": "COLLECTION",
+        "track": "September Rain - 2020 Remaster",
+        "uri": "spotify:track:6A9YFkei6zWfPSxWxlBecY"
+      },
+      {
+        "artist": "Ariana Grande",
+        "album": "yes, and?",
+        "track": "yes, and?",
+        "uri": "spotify:track:7gaA3wERFkFkgivjwbSvkG"
+      },
+      {
+        "artist": "Bakar",
+        "album": "Hell N Back (feat. Summer Walker)",
+        "track": "Hell N Back (feat. Summer Walker)",
+        "uri": "spotify:track:0ZDwhNFZnPx9EIPCcwGUHC"
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "album": "Mr. Morale & The Big Steppers",
+        "track": "United In Grief",
+        "uri": "spotify:track:5Gt9bxniM1SxN61yRzRhXL"
+      },
+      {
+        "artist": "Sonu Nigam",
+        "album": "Main Hoon Na",
+        "track": "Main Hoon Na",
+        "uri": "spotify:track:0v7rJIwQ2xeB1W19eU5IQS"
+      },
+      {
+        "artist": "Don Diablo",
+        "album": "FORΞVΞR",
+        "track": "Hot Air Balloon",
+        "uri": "spotify:track:67p96tIoC4ESrod9kW331R"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Something Different",
+        "track": "Something Different",
+        "uri": "spotify:track:354VADd8g3EwHZoLOVGou2"
+      },
+      {
+        "artist": "ScHoolboy Q",
+        "album": "Blank Face LP",
+        "track": "Dope Dealer",
+        "uri": "spotify:track:7pda6TLAbVGxUjIUtbiNt0"
+      },
+      {
+        "artist": "Trippie Redd",
+        "album": "A Love Letter To You 3",
+        "track": "Love Scars 3",
+        "uri": "spotify:track:0AcicReEGm1qcENjqzh1Tg"
+      },
+      {
+        "artist": "Childish Gambino",
+        "album": "This Is America",
+        "track": "This Is America",
+        "uri": "spotify:track:0b9oOr2ZgvyQu88wzixux9"
+      },
+      {
+        "artist": "IDK",
+        "album": "IWASVERYBAD",
+        "track": "Birds & The Bees",
+        "uri": "spotify:track:59n53QoJQa9RcvSuz739oX"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Indica Badu",
+        "uri": "spotify:track:0jqBo5RYn008f4ZY8kPewW"
+      },
+      {
+        "artist": "Lucky Daye",
+        "album": "Painted",
+        "track": "Misunderstood",
+        "uri": "spotify:track:6zsT60ALu2xeljCWRp3rEs"
+      },
+      {
+        "artist": "Cortex",
+        "album": "Troupeau bleu",
+        "track": "Huit octobre 1971",
+        "uri": "spotify:track:2CsnpBAB8VQMTyPuws57ao"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "NO BYSTANDERS",
+        "uri": "spotify:track:6OaVWaGfhXn70ZJfdVcabn"
+      },
+      {
+        "artist": "Plain White T's",
+        "album": "Every Second Counts",
+        "track": "Hey There Delilah",
+        "uri": "spotify:track:0xM88xobymkMgg46MStfnV"
+      },
+      {
+        "artist": "Jhelisa",
+        "album": "Friendly Pressure (Sunship Remixes)",
+        "track": "Friendly Pressure - Into The Sunshine Edit",
+        "uri": "spotify:track:7vfIghWey3FItmcZXZy2fE"
+      },
+      {
+        "artist": "Rashid Ali",
+        "album": "Jaane Tu... Ya Jaane Na",
+        "track": "Kabhi Kabhi Aditi",
+        "uri": "spotify:track:3APdIdF8H0jsxSuGOqXedS"
+      },
+      {
+        "artist": "Digable Planets",
+        "album": "Reachin' (A New Refutation Of Time And Space)",
+        "track": "It's Good To Be Here",
+        "uri": "spotify:track:1ilIMHKW9EiojuRRqBuWfA"
+      },
+      {
+        "artist": "KYLE",
+        "album": "Light of Mine",
+        "track": "Playinwitme (feat. Kehlani)",
+        "uri": "spotify:track:4F1yvJfQ7gJkrcgFJQDjOr"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Swimming",
+        "track": "Perfecto",
+        "uri": "spotify:track:0Xcy81PsJCOO6mhLZaQyQ4"
+      },
+      {
+        "artist": "The Weeknd",
+        "album": "My Dear Melancholy,",
+        "track": "Try Me",
+        "uri": "spotify:track:4rv1ww0dUwFZcDVPqhcOcX"
+      },
+      {
+        "artist": "Kota the Friend",
+        "album": "FOTO",
+        "track": "Solar Return",
+        "uri": "spotify:track:5av7NCtwaAsID0TJylcSD4"
+      },
+      {
+        "artist": "Brent Faiyaz",
+        "album": "Invite Me",
+        "track": "Invite Me",
+        "uri": "spotify:track:1nzbFLItWk2ZXrx8jvTmdZ"
+      },
+      {
+        "artist": "NOT THE TWOS",
+        "album": "PARADISE",
+        "track": "PARADISE",
+        "uri": "spotify:track:6rZjqLz4k7psYLWDgDTw8l"
+      },
+      {
+        "artist": "tobi lou",
+        "album": "Darlin'",
+        "track": "Darlin'",
+        "uri": "spotify:track:0eGrwX4kf5sV1faR5tZDp3"
+      },
+      {
+        "artist": "Logic",
+        "album": "Under Pressure",
+        "track": "Gang Related",
+        "uri": "spotify:track:1Kp6WFxRzc0sRBmGSgIYat"
+      },
+      {
+        "artist": "Lil Dicky",
+        "album": "Freaky Friday (feat. Chris Brown)",
+        "track": "Freaky Friday (feat. Chris Brown)",
+        "uri": "spotify:track:10Igtw8bSDyyFs7KIsKngZ"
+      },
+      {
+        "artist": "Baby Rose",
+        "album": "Through and Through",
+        "track": "I Won't Tell",
+        "uri": "spotify:track:3rot29NUumMnFoeZCq7ynk"
+      },
+      {
+        "artist": "Raja Kumari",
+        "album": "Mute (feat. Elvis Brown)",
+        "track": "Mute (feat. Elvis Brown)",
+        "uri": "spotify:track:6UCDKscr5W8zSs06GTFcqX"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Blue Tint",
+        "uri": "spotify:track:1Jrj3k5L36dPkU6KAclU7g"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Knock Knock - Single",
+        "track": "Knock Knock",
+        "uri": "spotify:track:3uYm4MtU6jUQft2DtGqEoZ"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "K.I.D.S.",
+        "track": "The Spins",
+        "uri": "spotify:track:51pshtuYkgUQnt5huMPbKL"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "rockstar",
+        "track": "rockstar",
+        "uri": "spotify:track:1OmcAT5Y8eg5bUPv9qJT4R"
+      },
+      {
+        "artist": "Rahat Fateh Ali Khan",
+        "album": "Om Shanti Om",
+        "track": "Jag Soona Soona Lage",
+        "uri": "spotify:track:2sVzO3L0fdOMVe8wVlM0IE"
+      },
+      {
+        "artist": "Brent Faiyaz",
+        "album": "Sonder Son",
+        "track": "All I Want",
+        "uri": "spotify:track:3JtlNOV0Huz9O9Ten4cUXV"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "rockstar (feat. 21 Savage)",
+        "uri": "spotify:track:0e7ipj03S05BNilyu5bRzt"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "track": "Midnight",
+        "uri": "spotify:track:1GtVGc1UYin3zpMUdNSSpM"
+      },
+      {
+        "artist": "DJ Khaled",
+        "album": "I'm the One",
+        "track": "I'm the One",
+        "uri": "spotify:track:72Q0FQQo32KJloivv5xge2"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Vicodin",
+        "uri": "spotify:track:19CWeHbg3Z9XJH4Uzdk6tf"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Taking Chances",
+        "uri": "spotify:track:0iVWDZhL04DiKgbI1mbC40"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "8 Out Of 10",
+        "uri": "spotify:track:5fcM0StdQxMjzulVGhFkHN"
+      },
+      {
+        "artist": "daste.",
+        "album": "Same as It Ever Was",
+        "track": "Telephone (What's Your Name?)",
+        "uri": "spotify:track:5THsk36b3o0Hw2JKR9SRnk"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Swimming",
+        "track": "Hurt Feelings",
+        "uri": "spotify:track:5p7GiBZNL1afJJDUrOA6C8"
+      },
+      {
+        "artist": "Smino",
+        "album": "Luv 4 Rent",
+        "track": "No L's",
+        "uri": "spotify:track:12CNybio0Bxean3F3uYugU"
+      },
+      {
+        "artist": "Saba",
+        "album": "Come My Way (feat. Krayzie Bone)",
+        "track": "Come My Way (feat. Krayzie Bone)",
+        "uri": "spotify:track:774RwZfAI8Ge5RcFu0pzD6"
+      },
+      {
+        "artist": "Supa Dupa Humble",
+        "album": "Steppin'",
+        "track": "Steppin'",
+        "uri": "spotify:track:3FhBQdBnnsxka6vGVcgCpX"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "GO:OD AM",
+        "track": "Weekend (feat. Miguel)",
+        "uri": "spotify:track:6GnhWMhgJb7uyiiPEiEkDA"
+      },
+      {
+        "artist": "Takeoff",
+        "album": "The Last Rocket",
+        "track": "None To Me",
+        "uri": "spotify:track:33bUxQsbrR2Ue2sS9o1Naf"
+      },
+      {
+        "artist": "Pritam",
+        "album": "Barfi! (Original Motion Picture Soundtrack)",
+        "track": "Main Kya Karoon",
+        "uri": "spotify:track:4GagsETs7qfR3cwQkRcXgb"
+      },
+      {
+        "artist": "Oliver Francis",
+        "album": "Gemini",
+        "track": "Gemini",
+        "uri": "spotify:track:3zuRGDCXGIzAp4S8wuOmNm"
+      },
+      {
+        "artist": "Maroon 5",
+        "album": "V",
+        "track": "Maps",
+        "uri": "spotify:track:4gbVRS8gloEluzf0GzDOFc"
+      },
+      {
+        "artist": "Aaron May",
+        "album": "CHASE",
+        "track": "Let Go",
+        "uri": "spotify:track:1NCWXbUyF88ee30OMAe7dO"
+      },
+      {
+        "artist": "Lil Uzi Vert",
+        "album": "Luv Is Rage 2",
+        "track": "XO Tour Llif3",
+        "uri": "spotify:track:7GX5flRQZVHRAGd6B4TmDO"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Feeling Whitney",
+        "uri": "spotify:track:35r28RDot7nPE7y9K9H7l0"
+      },
+      {
+        "artist": "Phony Ppl",
+        "album": "Fkn Around (feat. Megan Thee Stallion)",
+        "track": "Fkn Around (feat. Megan Thee Stallion)",
+        "uri": "spotify:track:1RRlUJMxjp2FmkTExBT2T7"
+      },
+      {
+        "artist": "Ansel Elgort",
+        "album": "Supernova",
+        "track": "Supernova",
+        "uri": "spotify:track:2ZIZXWnU52s0C75sPYiwvh"
+      },
+      {
+        "artist": "Badal",
+        "album": "Vamos (feat. Dr Zeus & Raja Kumari)",
+        "track": "Vamos (feat. Dr Zeus & Raja Kumari)",
+        "uri": "spotify:track:1oObDV7YWsurxzC3KCyvCo"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Swimming",
+        "track": "Self Care",
+        "uri": "spotify:track:5bJ1DrEM4hNCafcDd1oxHx"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Days Like This (feat. Khalid)",
+        "uri": "spotify:track:2qU9ro2FCa4WjFqTg1JFJP"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Why You Crying Mama",
+        "uri": "spotify:track:03Q1Tz2OxlA3sRrbXxmG3V"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "NC-17",
+        "uri": "spotify:track:6BJbOXDlgVAXSaq6wYFYT2"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Swimming",
+        "track": "What's the Use?",
+        "uri": "spotify:track:2dgrYdgguVZKeCsrVb9XEs"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "YOSEMITE",
+        "uri": "spotify:track:7lAK3oHbfEnvUQWosrMMpR"
+      },
+      {
+        "artist": "Raja Kumari",
+        "album": "Curry Sauce Vol. 1",
+        "track": "MF Bawse",
+        "uri": "spotify:track:3dTnHUw8biTbEwdfnhQB54"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Why Don't We Just",
+        "track": "We the Party",
+        "uri": "spotify:track:7MiO3BTVzOTnwSQWV1rhA6"
+      },
+      {
+        "artist": "Lil Wayne",
+        "album": "Tha Carter V",
+        "track": "Mess",
+        "uri": "spotify:track:6y4pOReFqH2wzo4CV91cZC"
+      },
+      {
+        "artist": "TEMPOREX",
+        "album": "Care",
+        "track": "Daydream",
+        "uri": "spotify:track:0gaOxnHfomT4BwtCYAu19P"
+      },
+      {
+        "artist": "Ty Dolla $ign",
+        "album": "Campaign",
+        "track": "Stealing",
+        "uri": "spotify:track:1p9FntEMBdyzc0d7vanPCi"
+      },
+      {
+        "artist": "Jay Rock",
+        "album": "Redemption",
+        "track": "Wow Freestyle (feat. Kendrick Lamar)",
+        "uri": "spotify:track:0gV5B7zmJkS1aaH9APokrH"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Better Now",
+        "uri": "spotify:track:7dt6x5M1jzdTEt8oCbisTK"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Pennyroyal",
+        "uri": "spotify:track:2miKV8OiAhmZPjhCzgRnvw"
+      },
+      {
+        "artist": "A.CHAL",
+        "album": "ON GAZ",
+        "track": "Love N Hennessy",
+        "uri": "spotify:track:57zEbGuOa9Skogmm0WdOzM"
+      },
+      {
+        "artist": "Chicago",
+        "album": "Chicago IX: Chicago's Greatest Hits",
+        "track": "25 or 6 to 4",
+        "uri": "spotify:track:65eRcjlStTnk8opG5eIQ8Z"
+      },
+      {
+        "artist": "Maroon 5",
+        "album": "What Lovers Do (feat. SZA)",
+        "track": "What Lovers Do (feat. SZA)",
+        "uri": "spotify:track:6YVpU5vVxezJCYeQUxIkRT"
+      },
+      {
+        "artist": "Kalyani Menon",
+        "album": "Alaipayuthey (Original Motion Picture Soundtrack)",
+        "track": "Alai Payuthey",
+        "uri": "spotify:track:7gh86jxhew8sHIoc7kS0E9"
+      },
+      {
+        "artist": "Midas the Jagaban",
+        "album": "Party With A Jagaban",
+        "track": "Party With A Jagaban",
+        "uri": "spotify:track:5BkBcXJ0rDRlnzh3tmknxI"
+      },
+      {
+        "artist": "Why Don't We",
+        "album": "Hooked",
+        "track": "Hooked",
+        "uri": "spotify:track:0kg36eEw4un3UwGvnf93xT"
+      },
+      {
+        "artist": "Ed Sheeran",
+        "album": "Shape of You",
+        "track": "Shape of You",
+        "uri": "spotify:track:0FE9t6xYkqWXU2ahLh6D8X"
+      },
+      {
+        "artist": "Aminé",
+        "album": "ONEPOINTFIVE",
+        "track": "REEL IT IN",
+        "uri": "spotify:track:5qHirGR7M9tdm6C17DlzSY"
+      },
+      {
+        "artist": "KK",
+        "album": "Hera Pheri (Original Motion Picture Soundtrack)",
+        "track": "Jab Bhi Koi Haseena",
+        "uri": "spotify:track:6xjVQYQ2CiuTSCpUEFCQ4E"
+      },
+      {
+        "artist": "The Chainsmokers",
+        "album": "Something Just Like This",
+        "track": "Something Just Like This",
+        "uri": "spotify:track:1dNIEtp7AY3oDAKCGg2XkH"
+      },
+      {
+        "artist": "Dijon",
+        "album": "Skin",
+        "track": "Skin",
+        "uri": "spotify:track:467t3218y3yihFcyDGWjr0"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Buttons",
+        "track": "Buttons",
+        "uri": "spotify:track:0ZBchpb4CLk5Qqu3895Etp"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "I'm Upset",
+        "uri": "spotify:track:1iSZPndzmY6NvL1jAtIvY1"
+      },
+      {
+        "artist": "Orion Sun",
+        "album": "A Collection of Fleeting Moments and Daydreams",
+        "track": "Mirage",
+        "uri": "spotify:track:1w327AHTCoChRIkJUprAnV"
+      },
+      {
+        "artist": "Aminé",
+        "album": "Good For You",
+        "track": "Caroline",
+        "uri": "spotify:track:5hTpBe8h35rJ67eAWHQsJx"
+      },
+      {
+        "artist": "Luis Bacalov",
+        "album": "Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack",
+        "track": "Lo Chiamavano King (His Name Is King)",
+        "uri": "spotify:track:342v3Is0g1CfidoxekA4f8"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Killuminati",
+        "uri": "spotify:track:2PxwwqB4f9x72jbw6AgR1s"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Don't Front",
+        "uri": "spotify:track:24TUPoKOVqKT1hZHV63FUV"
+      },
+      {
+        "artist": "Lucky Daye",
+        "album": "Painted",
+        "track": "Real Games",
+        "uri": "spotify:track:4c3d0xt7rUFDV7EnnRYi4i"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Broken Whiskey Glass",
+        "uri": "spotify:track:5BoOzegGrg5XFRR8UBDtkF"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Circles",
+        "track": "Woods",
+        "uri": "spotify:track:3Qa944OTMZkg8DHjET8JQv"
+      },
+      {
+        "artist": "Tory Lanez",
+        "album": "TAlk tO Me (with Rich The Kid feat. Lil Wayne)",
+        "track": "TAlk tO Me (with Rich The Kid feat. Lil Wayne) - Remix",
+        "uri": "spotify:track:51w9Jbat1pLeWINGCpnQUR"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "track": "Waves",
+        "uri": "spotify:track:3AM2ihc5RFzbC47eCpTg2I"
+      },
+      {
+        "artist": "A Tribe Called Quest",
+        "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+        "track": "Can I Kick It?",
+        "uri": "spotify:track:3Ti0GdlrotgwsAVBBugv0I"
+      },
+      {
+        "artist": "S. P. Balasubrahmanyam",
+        "album": "Roja",
+        "track": "Na Cheli Rojave",
+        "uri": "spotify:track:39RE07kcHln5DjnerRCaKy"
+      },
+      {
+        "artist": "Brent Faiyaz",
+        "album": "WASTELAND",
+        "track": "ALL MINE",
+        "uri": "spotify:track:3XgGQ1wjo5khvq2UImjyNF"
+      },
+      {
+        "artist": "Demi Lovato",
+        "album": "Sorry Not Sorry",
+        "track": "Sorry Not Sorry",
+        "uri": "spotify:track:743mWMRgafToEUJriLLgkg"
+      },
+      {
+        "artist": "BROCKHAMPTON",
+        "album": "SATURATION II",
+        "track": "SWEET",
+        "uri": "spotify:track:2DgMxFMUQRPthW4ROhjen1"
+      },
+      {
+        "artist": "MAX",
+        "album": "Still New York (feat. Joey Bada$$)",
+        "track": "Still New York (feat. Joey Bada$$)",
+        "uri": "spotify:track:4txpZk7WSjV1dsZAw5WYcT"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "The Divine Feminine",
+        "track": "Cinderella (feat. Ty Dolla $ign)",
+        "uri": "spotify:track:2lpygKqzPFtItQ4ss3cgfb"
+      },
+      {
+        "artist": "Matt Hunter",
+        "album": "Dicen",
+        "track": "Dicen",
+        "uri": "spotify:track:4cfoVJxpHqUqTvBrG1RTyi"
+      },
+      {
+        "artist": "Aaron May",
+        "album": "CHASE",
+        "track": "In Love",
+        "uri": "spotify:track:1IMgQoUuiOuieYRKYadkPr"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Know Me",
+        "uri": "spotify:track:4odbaySGxXOgH7ISBUfgvg"
+      },
+      {
+        "artist": "Kxllswxtch",
+        "album": "CRYING IN THE CLUB",
+        "track": "CRYING IN THE CLUB",
+        "uri": "spotify:track:37h3zLfewsruqOOnNxI96j"
+      },
+      {
+        "artist": "Masego",
+        "album": "Navajo",
+        "track": "Navajo",
+        "uri": "spotify:track:6zWU7YALeEDMcPGhKKZJhV"
+      },
+      {
+        "artist": "Pale Jay",
+        "album": "The Celestial Suite",
+        "track": "For James",
+        "uri": "spotify:track:0Lf2PlT8IPAaWc59a2fWU6"
+      },
+      {
+        "artist": "Azizi Gibson",
+        "album": "No Phucks Given",
+        "track": "No Phucks Given",
+        "uri": "spotify:track:43Ln7yklvJWXWs5e1xOB5N"
+      },
+      {
+        "artist": "Rae Sremmurd",
+        "album": "CLOSE (feat. Travis Scott)",
+        "track": "CLOSE (feat. Travis Scott) - From SR3MM",
+        "uri": "spotify:track:3qKCDFZp192KBEEtFj7fDa"
+      },
+      {
+        "artist": "Marshmello",
+        "album": "Silence",
+        "track": "Silence",
+        "uri": "spotify:track:7vGuf3Y35N4wmASOKLUVVU"
+      },
+      {
+        "artist": "Duckwrth",
+        "album": "Bernal Heights",
+        "track": "Bernal Heights",
+        "uri": "spotify:track:2LdbF40p7euLqEsaxpt70i"
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "album": "Black Panther The Album Music From And Inspired By",
+        "track": "All The Stars (with SZA)",
+        "uri": "spotify:track:2Imq77E6CEJR5TPUxlJvTY"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Snow In The Stadium (feat. Erick The Architect, Meechy Darko, Kirk Knight, CJ Fly & Issa Gold)",
+        "uri": "spotify:track:303vxJwRRaPGBriyN5EuDw"
+      },
+      {
+        "artist": "Vishal-Shekhar",
+        "album": "Bachna Ae Haseeno",
+        "track": "Khuda Jaane",
+        "uri": "spotify:track:0gPgdRfB4jdGrlyXS0Vx78"
+      },
+      {
+        "artist": "The Weeknd",
+        "album": "Pray For Me (with Kendrick Lamar)",
+        "track": "Pray For Me (with Kendrick Lamar)",
+        "uri": "spotify:track:6ZNo7Vi0TE9ul1fhKd4S1M"
+      },
+      {
+        "artist": "Train",
+        "album": "Hey, Soul Sister",
+        "track": "Hey, Soul Sister",
+        "uri": "spotify:track:0KpfYajJVVGgQ32Dby7e9i"
+      },
+      {
+        "artist": "Lucky Daye",
+        "album": "That's You",
+        "track": "That's You",
+        "uri": "spotify:track:3rgPcA3yCtvVCxvcVFcBxs"
+      },
+      {
+        "artist": "Bas",
+        "album": "Tribe (with J. Cole)",
+        "track": "Tribe (with J. Cole)",
+        "uri": "spotify:track:5g1cV8vAkt1ihjwlW8DWrF"
+      },
+      {
+        "artist": "The WRLDFMS Tony Williams",
+        "album": "The 7th Day",
+        "track": "Another You (feat. Kanye West)",
+        "uri": "spotify:track:0B0jhczWfIdjY0p4KY1ArL"
+      },
+      {
+        "artist": "Omega",
+        "album": "10000 lépés",
+        "track": "Gyöngyhajú lány",
+        "uri": "spotify:track:3nDfx9WqSNOfbuCP4yonzj"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "WAKE UP",
+        "uri": "spotify:track:20MuVazoNMv6xjKPnRFOxG"
+      },
+      {
+        "artist": "KYLE",
+        "album": "Playinwitme (feat. Kehlani)",
+        "track": "Playinwitme (feat. Kehlani)",
+        "uri": "spotify:track:43cFjTTCD9Cni4aSL0sORz"
+      },
+      {
+        "artist": "Rae Sremmurd",
+        "album": "Perplexing Pegasus",
+        "track": "Perplexing Pegasus",
+        "uri": "spotify:track:2nYwV62UABTH0NanrwVIdQ"
+      },
+      {
+        "artist": "Rich The Kid",
+        "album": "Plug Walk",
+        "track": "Plug Walk",
+        "uri": "spotify:track:0gD6lWJhbXHWNVwQziSVvl"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "Late Registration",
+        "track": "Gold Digger",
+        "uri": "spotify:track:1PS1QMdUqOal0ai3Gt7sDQ"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Ratchet Happy Birthday",
+        "uri": "spotify:track:16x6tqeSkIjoLEf7SJLlYy"
+      },
+      {
+        "artist": "Jae Trill",
+        "album": "JOTARO!",
+        "track": "JOTARO!",
+        "uri": "spotify:track:3AoAHea9XY4HBzOOzoCNfU"
+      },
+      {
+        "artist": "Logic",
+        "album": "Confessions of a Dangerous Mind",
+        "track": "Icy (feat. Gucci Mane)",
+        "uri": "spotify:track:5sCwso3aURYAdieWEFI1nE"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "SKELETONS",
+        "uri": "spotify:track:6NMtzpDQBTOfJwMzgMX0zl"
+      },
+      {
+        "artist": "Frank Ocean",
+        "album": "Biking (Solo)",
+        "track": "Biking (Solo)",
+        "uri": "spotify:track:6gtNiLJNLBcV0P6Juenstp"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Patient",
+        "uri": "spotify:track:5DLTuH4A5VZB2HKpqHQR6t"
+      },
+      {
+        "artist": "AJ Mitchell",
+        "album": "Somebody",
+        "track": "Somebody",
+        "uri": "spotify:track:4RhCaV6mj98XlUVLKIrT4L"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "2000",
+        "track": "Brand New 911",
+        "uri": "spotify:track:4r0ZYsvHI3C2tizEPu7Acw"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "In My Feelings",
+        "uri": "spotify:track:0bAkKNCQfWkexHFn7fIKns"
+      },
+      {
+        "artist": "d4vd",
+        "album": "Here With Me",
+        "track": "Here With Me",
+        "uri": "spotify:track:0dS2u2UFd88TIzDDaZDLvS"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "track": "Takin' Shots",
+        "uri": "spotify:track:5ffntNJnJOeFv7b7DCd0Bw"
+      },
+      {
+        "artist": "Maroon 5",
+        "album": "Wait (feat. A Boogie Wit da Hoodie)",
+        "track": "Wait (feat. A Boogie Wit da Hoodie)",
+        "uri": "spotify:track:0SvxydoxEEkXt9aMAqTfpB"
+      },
+      {
+        "artist": "Chance Sutton",
+        "album": "No Option",
+        "track": "No Option",
+        "uri": "spotify:track:6bsTJoPhuzXFHeO4Cs90TW"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "track": "All Of The Lights (Interlude)",
+        "uri": "spotify:track:4D6TpthzUVNTjWQqfBW5Kb"
+      },
+      {
+        "artist": "The Weeknd",
+        "album": "Save Your Tears",
+        "track": "Save Your Tears (with Ariana Grande) (Remix)",
+        "uri": "spotify:track:37BZB0z9T8Xu7U3e65qxFy"
+      },
+      {
+        "artist": "Imagine Dragons",
+        "album": "Evolve",
+        "track": "Thunder",
+        "uri": "spotify:track:0tKcYR2II1VCQWT79i5NrW"
+      },
+      {
+        "artist": "Kodak Black",
+        "album": "ZEZE (feat. Travis Scott & Offset)",
+        "track": "ZEZE (feat. Travis Scott & Offset)",
+        "uri": "spotify:track:7l3E7lcozEodtVsSTCkcaA"
+      },
+      {
+        "artist": "Local Natives",
+        "album": "Violet Street",
+        "track": "When Am I Gonna Lose You",
+        "uri": "spotify:track:5wCVLW9qMtIY9IkBeyYnh6"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Coast/Clear (feat. Kirk Knight, Nyck Caution & Issa Gold)",
+        "uri": "spotify:track:5bH35UA16PMCYRSCFJAfry"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "track": "can't leave without it",
+        "uri": "spotify:track:0hPLZrnDgtKxrym1BHjDhd"
+      },
+      {
+        "artist": "Ayo & Teo",
+        "album": "Rolex",
+        "track": "Rolex",
+        "uri": "spotify:track:0pSBuHjILhNEo55xK1zrRt"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "track": "Survival",
+        "uri": "spotify:track:71SEHJPt1iDwGkBhUOAXDP"
+      },
+      {
+        "artist": "Roy Woods",
+        "album": "Nocturnal",
+        "track": "Dangerous",
+        "uri": "spotify:track:313cdthw8naSCqGDNON7XB"
+      },
+      {
+        "artist": "Maroon 5",
+        "album": "V",
+        "track": "Sex And Candy",
+        "uri": "spotify:track:0beCjUwOTRNatg7CYf4GS8"
+      },
+      {
+        "artist": "Wiz Khalifa",
+        "album": "See You Again (feat. Charlie Puth)",
+        "track": "See You Again (feat. Charlie Puth)",
+        "uri": "spotify:track:2JzZzZUQj3Qff7wapcbKjc"
+      },
+      {
+        "artist": "KAYTRANADA",
+        "album": "99.9%",
+        "track": "YOU'RE THE ONE",
+        "uri": "spotify:track:2b4SSorCTQ2VzmllaeWuuT"
+      },
+      {
+        "artist": "Lil Peep",
+        "album": "Falling Down",
+        "track": "Falling Down - Bonus Track",
+        "uri": "spotify:track:0Dn40gxVCMo5TkgS8Ik18Q"
+      },
+      {
+        "artist": "Marcellus Juvann",
+        "album": "The Fall",
+        "track": "Make My Way",
+        "uri": "spotify:track:0KMHI1RBFvPQ77RpnhlI9T"
+      },
+      {
+        "artist": "Russ",
+        "album": "Back To Life",
+        "track": "Back To Life",
+        "uri": "spotify:track:7g0OuTMLnl9HCb7yRKuMHW"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Last Choir (feat. Meechy Darko, Kirk Knight, Erick The Architect, Nyck Caution & AKTHESAVIOR)",
+        "uri": "spotify:track:1pN0cNYQj3N2qtSHxhSB0m"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "It Ain't Easy, It Ain't Easy (feat. Nyck Caution, Kirk Knight, CJ Fly & AKTHESAVIOR)",
+        "uri": "spotify:track:4krhkcFf3OqxHSS1QUIsmc"
+      },
+      {
+        "artist": "BROCKHAMPTON",
+        "album": "SATURATION",
+        "track": "GOLD",
+        "uri": "spotify:track:7HRv1sYuwgoea1m0JRvChV"
+      },
+      {
+        "artist": "Logan Paul",
+        "album": "Help Me Help You (feat. Why Don't We)",
+        "track": "Help Me Help You (feat. Why Don't We)",
+        "uri": "spotify:track:51w95jAPQDOWN3M7xopWWh"
+      },
+      {
+        "artist": "TV Girl",
+        "album": "French Exit",
+        "track": "Lovers Rock",
+        "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM"
+      },
+      {
+        "artist": "Brent Faiyaz",
+        "album": "Poison",
+        "track": "Poison",
+        "uri": "spotify:track:5NijSs5dAwaIybq1GaRTIe"
+      },
+      {
+        "artist": "VIC MENSA",
+        "album": "There's Alot Going On",
+        "track": "Liquor Locker",
+        "uri": "spotify:track:5YbrqNUUleF39Ai3b3ruQy"
+      },
+      {
+        "artist": "Roy Woods",
+        "album": "Waking at Dawn",
+        "track": "Down Girl",
+        "uri": "spotify:track:4PZ4xyWBCCJqAeWI8uSLca"
+      },
+      {
+        "artist": "WZRD",
+        "album": "WZRD",
+        "track": "Teleport 2 Me, Jamie",
+        "uri": "spotify:track:5xKvxwXINUs2dsyvDJ8Gjs"
+      },
+      {
+        "artist": "The Weeknd",
+        "album": "Starboy",
+        "track": "Die For You (with Ariana Grande) - Remix",
+        "uri": "spotify:track:4W4fNrZYkobj539TOWsLO2"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Yours Truly, Austin Post",
+        "uri": "spotify:track:0LpiKjWMfZTkPPHonlM8nB"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Spanish Song (feat. WaveIQ)",
+        "uri": "spotify:track:4rKgnSL0OriKojAcS1rGQ9"
+      },
+      {
+        "artist": "88rising",
+        "album": "Head In The Clouds",
+        "track": "Midsummer Madness",
+        "uri": "spotify:track:6TodWdTSDfzwgYynTZSvJn"
+      },
+      {
+        "artist": "Aminé",
+        "album": "Spider-Man: Into the Spider-Verse",
+        "track": "Invincible",
+        "uri": "spotify:track:6VS7wKwtvL2FvTupYSWZ9e"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Tension",
+        "uri": "spotify:track:7l6LAnuiX2o48fwUQIhDNv"
+      },
+      {
+        "artist": "Frank Ocean",
+        "album": "channel ORANGE",
+        "track": "Super Rich Kids",
+        "uri": "spotify:track:0K9oqDmJBgSFjXU1bUY9Fk"
+      },
+      {
+        "artist": "Russ",
+        "album": "ZOO",
+        "track": "Parkstone Drive",
+        "uri": "spotify:track:3hWScIEUaZGBKTnVYdNwrW"
+      },
+      {
+        "artist": "THEM",
+        "album": "Can't Call It Mine",
+        "track": "Can't Call It Mine",
+        "uri": "spotify:track:7kfdAogr8l3SD6QuXtagiv"
+      },
+      {
+        "artist": "Caleborate",
+        "album": "Real Person",
+        "track": "4 Willem",
+        "uri": "spotify:track:4nWPmn1tqegITYKdZOJpKv"
+      },
+      {
+        "artist": "NAV",
+        "album": "RECKLESS",
+        "track": "Champion (feat. Travis Scott)",
+        "uri": "spotify:track:6nO3tr47nr2P7f3hXb8JIo"
+      },
+      {
+        "artist": "The Holydrug Couple",
+        "album": "Moonlust Demos",
+        "track": "Lunes 1 De Abril",
+        "uri": "spotify:track:0BaFtki3CupqritofvTRSj"
+      },
+      {
+        "artist": "Calvin Harris",
+        "album": "Funk Wav Bounces Vol.1",
+        "track": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+        "uri": "spotify:track:5bcTCxgc7xVfSaMV3RuVke"
+      },
+      {
+        "artist": "The Internet",
+        "album": "Ego Death",
+        "track": "Girl (feat. KAYTRANADA)",
+        "uri": "spotify:track:3PFaFVWq5wucLu6s4baj9D"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Swimming",
+        "track": "Come Back to Earth",
+        "uri": "spotify:track:01z2fBGB8Hl3Jd3zXe4IXR"
+      },
+      {
+        "artist": "Pritam",
+        "album": "Barfi! (Original Motion Picture Soundtrack)",
+        "track": "Kyon",
+        "uri": "spotify:track:1sYC1fG7s4p0pTykrJqmgW"
+      },
+      {
+        "artist": "Wale the Sage",
+        "album": "bleue.",
+        "track": "Bleue",
+        "uri": "spotify:track:0LwwQLNOCvQF9xqD9rJ0Un"
+      },
+      {
+        "artist": "DRAM",
+        "album": "Big Baby DRAM",
+        "track": "Broccoli",
+        "uri": "spotify:track:3rZhRBdVQ2fTEM2ULOAwUL"
+      },
+      {
+        "artist": "JPEGMAFIA",
+        "album": "SCARING THE HOES",
+        "track": "Kingdom Hearts Key (ft. redveil)",
+        "uri": "spotify:track:0VA5FzFlysCcSG1IdOkhUb"
+      },
+      {
+        "artist": "Kaoru Akimoto",
+        "album": "Dress Down EP",
+        "track": "Dress Down",
+        "uri": "spotify:track:1eyyAu5eU0EONveZhIcJDg"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "track": "Snap",
+        "uri": "spotify:track:0BDDB65zAWJ1nQYyIgnZcj"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Blue Slide Park",
+        "track": "Missed Calls",
+        "uri": "spotify:track:6ET22Ri3FYXi5C8BBqHWcO"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Joke Ting (feat. Ari PenSmith)",
+        "uri": "spotify:track:6Ic2MP2hzoBLe3r1VIle8J"
+      },
+      {
+        "artist": "DRAM",
+        "album": "Broccoli",
+        "track": "Broccoli",
+        "uri": "spotify:track:0qy5D3OJre7SPJNMOL9I71"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "track": "Rumble (feat. Jackson Wang & Lil Nei)",
+        "uri": "spotify:track:4nyWvinhAJrNL2zN87gZ9l"
+      },
+      {
+        "artist": "Bas",
+        "album": "Milky Way",
+        "track": "Icarus (feat. Ari Lennox)",
+        "uri": "spotify:track:5IU4Ym8qNpQFIo0EXUceRr"
+      },
+      {
+        "artist": "Beast Coast",
+        "album": "Escape From New York",
+        "track": "Left Hand (feat. The Underachievers, Kirk Knight, Nyck Caution & CJ Fly)",
+        "uri": "spotify:track:0q3C21uLnMbPVBlO0vaPhi"
+      },
+      {
+        "artist": "Ansel Elgort",
+        "album": "Thief",
+        "track": "Thief",
+        "uri": "spotify:track:3BtA1koBtnClfirgg4BpjI"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "track": "Feel",
+        "uri": "spotify:track:7MTIDmToGs0I5Oue9V0CHl"
+      },
+      {
+        "artist": "Ugly God",
+        "album": "The Booty Tape",
+        "track": "Water",
+        "uri": "spotify:track:7EoSDrwBPUBeBEORrpvgko"
+      },
+      {
+        "artist": "Rejjie Snow",
+        "album": "Dear Annie",
+        "track": "Egyptian Luvr (feat. Aminé and Dana Williams)",
+        "uri": "spotify:track:4uToWVHXLtKEEboNsG3n2u"
+      },
+      {
+        "artist": "Vishal Dadlani",
+        "album": "Zindagi Na Milegi Dobara",
+        "track": "Ik Junoon (Paint It Red)",
+        "uri": "spotify:track:7e6qTHVfRdaYsio90s1fHC"
+      },
+      {
+        "artist": "Lucky Daye",
+        "album": "Good & Plenty",
+        "track": "Good & Plenty - Remix",
+        "uri": "spotify:track:6T3Ebo7EOh8cUOyE4OhFpp"
+      },
+      {
+        "artist": "redveil",
+        "album": "Niagara",
+        "track": "Weight",
+        "uri": "spotify:track:5sdkS8DXx8rXNLxbSos8GS"
+      },
+      {
+        "artist": "Måneskin",
+        "album": "Teatro d'ira - Vol. I",
+        "track": "ZITTI E BUONI",
+        "uri": "spotify:track:776AftMmFFAWUIEAb3lHhw"
+      },
+      {
+        "artist": "Love Spells",
+        "album": "Aqua Darling",
+        "track": "Aqua Darling",
+        "uri": "spotify:track:3lNRApW20A3lm1YcZxJyJb"
+      },
+      {
+        "artist": "Tyler, The Creator",
+        "album": "Peach Fuzz",
+        "track": "Peach Fuzz",
+        "uri": "spotify:track:0F58GE2TtHBim5o4ZTQUwK"
+      },
+      {
+        "artist": "Anderson .Paak",
+        "album": "Ventura",
+        "track": "Twilight",
+        "uri": "spotify:track:1ZFg3nGsUSqkwmMPU9qLHk"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "track": "STOP TRYING TO BE GOD",
+        "uri": "spotify:track:1xYpVRspgaLxdJLOTQkTjg"
+      }
+    ],
+    "albums": [
+      {
+        "artist": "Mac Miller",
+        "album": "Faces",
+        "uri": "spotify:album:5SKnXCvB4fcGSZu32o3LRY"
+      },
+      {
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "uri": "spotify:album:6trNtQUgC8cgbWcqoMYkOR"
+      },
+      {
+        "artist": "KIDS SEE GHOSTS",
+        "album": "KIDS SEE GHOSTS",
+        "uri": "spotify:album:6pwuKxMUkNg673KETsXPUV"
+      },
+      {
+        "artist": "Xavier Goodman",
+        "album": "From My Drafts",
+        "uri": "spotify:album:60rTNxNSKK84tgH4yk5LZD"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "Graduation",
+        "uri": "spotify:album:5fPglEDz9YEwRgbLRvhCZy"
+      },
+      {
+        "artist": "Post Malone",
+        "album": "Stoney",
+        "uri": "spotify:album:5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      {
+        "artist": "Drake",
+        "album": "Scary Hours 2",
+        "uri": "spotify:album:5LuoozUhs2pl3glZeAJl89"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "1999",
+        "uri": "spotify:album:5ra51AaWF3iVebyhlZ1aqq"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "uri": "spotify:album:20r762YmB5HeofjMCiPMLv"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "JESUS IS KING",
+        "uri": "spotify:album:0FgZKfoU2Br5sHOfvZKTI9"
+      },
+      {
+        "artist": "Luis Fonsi",
+        "album": "Despacito Feat. Justin Bieber",
+        "uri": "spotify:album:3Gq2Dme9nesdgoqNNlcN8O"
+      },
+      {
+        "artist": "Kanye West",
+        "album": "The Life Of Pablo",
+        "uri": "spotify:album:7gsWAHLeT0w7es6FofOXk1"
+      },
+      {
+        "artist": "Giveon",
+        "album": "When It's All Said And Done",
+        "uri": "spotify:album:62Yd5v100Og1YZ7FNsGv9q"
+      },
+      {
+        "artist": "Nick Mono",
+        "album": "michelin man",
+        "uri": "spotify:album:0azSmJ8OI3twWwQ3kAut5T"
+      },
+      {
+        "artist": "Russ",
+        "album": "Back To Life",
+        "uri": "spotify:album:4Cz6Bml0CGIo1pPjxcajrj"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "ALL-AMERIKKKAN BADA$$",
+        "uri": "spotify:album:2ZmDoyNYarmubD4vTfwh6g"
+      },
+      {
+        "artist": "21 Savage",
+        "album": "i am > i was",
+        "uri": "spotify:album:007DWn799UWvfY1wwZeENR"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "Mac Miller",
+        "uri": "spotify:album:07RagZtMuBbLBnaWJbD52h"
+      },
+      {
+        "artist": "Logic",
+        "album": "Bobby Tarantino II",
+        "uri": "spotify:album:4F87p1aiFwHeU4uu65MaPV"
+      },
+      {
+        "artist": "NAV",
+        "album": "Bad Habits",
+        "uri": "spotify:album:31lHUoHC3P6BRFzKYLyRJO"
+      },
+      {
+        "artist": "Dreamville",
+        "album": "Revenge Of The Dreamers III",
+        "uri": "spotify:album:2n3quCZ0anEa46j2IveacI"
+      },
+      {
+        "artist": "Mac Miller",
+        "album": "I Love Life, Thank You",
+        "uri": "spotify:album:1XEycvgUklYgcYEUf7vbij"
+      },
+      {
+        "artist": "Joey Bada$$",
+        "album": "2000",
+        "uri": "spotify:album:261LWEVYViMXijB95mAty3"
+      },
+      {
+        "artist": "GoldLink",
+        "album": "Diaspora",
+        "uri": "spotify:album:790qROmQ1y4aPEYLcSkScH"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
+        "uri": "spotify:album:41GuZcammIkupMPKH2OJ6I"
+      },
+      {
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "uri": "spotify:album:18NOKLkZETa4sWwLMIm0UZ"
+      }
+    ],
+    "shows": [
+      {
+        "name": "Sassy Sundays with Ri",
+        "publisher": "Riya Pandit",
+        "uri": "spotify:show:76367XUpB4ITeQw0ZdryyG"
+      },
+      {
+        "name": "Sassy Sundays with Ri",
+        "publisher": "Riya Pandit",
+        "uri": "spotify:show:4N57dOftqm4suY9BCrKwNn"
+      },
+      {
+        "name": "v's 8D audio.v2",
+        "publisher": "v",
+        "uri": "spotify:show:4JM2vnvoa8colfKDvrGWwt"
+      }
+    ],
+    "episodes": [
+      {
+        "name": "Uber Product Manager Talks: How to Crack the PM Interview",
+        "show": "The Product Podcast",
+        "uri": "spotify:episode:3UfQTSxLGfD5UsSAzzjMs3"
+      },
+      {
+        "name": "the less i know the better REMIX- slowed and reverb- tame impala",
+        "show": "v's 8D audio.v2",
+        "uri": "spotify:episode:2hvj7xRk8AbomlAVSr2bZS"
+      },
+      {
+        "name": "tribe- 8D- bas ft j.cole",
+        "show": "v's 8D audio.v2",
+        "uri": "spotify:episode:7FWpDnbXEVGZNnnFeYVG51"
+      }
+    ],
+    "bannedTracks": [
+    ],
+    "artists": [
+      {
+        "name": "Aksel",
+        "uri": "spotify:artist:7D7SsxRo0mbCNWv91BvTLo"
+      },
+      {
+        "name": "Anderson .Paak",
+        "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+      },
+      {
+        "name": "Drake",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "name": "Frank Ocean",
+        "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+      },
+      {
+        "name": "Joey Bada$$",
+        "uri": "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
+      },
+      {
+        "name": "Kanye West",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "name": "Lil Jimothy",
+        "uri": "spotify:artist:6iXaoJFM6bTtDA6sPeiCp2"
+      },
+      {
+        "name": "Mac Miller",
+        "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+      },
+      {
+        "name": "Nick Mono",
+        "uri": "spotify:artist:4HyoBuDGnR8bp6TTrrVZ9q"
+      },
+      {
+        "name": "Saba",
+        "uri": "spotify:artist:7Hjbimq43OgxaBRpFXic4x"
+      },
+      {
+        "name": "Smino",
+        "uri": "spotify:artist:1ybINI1qPiFbwDXamRtwxD"
+      },
+      {
+        "name": "The Weeknd",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "name": "k&k",
+        "uri": "spotify:artist:0c0Yygscxt54TgJaaWLeQi"
+      }
+    ],
+    "bannedArtists": [
+    ],
+    "other": [
+      "spotify:local:::Like+I%27m+Supposed+To+%3A+Do+Things:202",
+      "spotify:local:::GELATO:119",
+      "spotify:local:Nujabes:Samurai+Champloo+Music+Record%3A+Departure:Aruarian+Dance:245",
+      "spotify:local:::Way+2+Sexy+%28ASTROFEST+2021+MIKE+DEAN+VERSION%29:258",
+      "spotify:local:::GOLFBOYSHIT:150",
+      "spotify:local:::Ridin%27:205",
+      "spotify:local:::One+Dance:110"
+    ]
+  }
