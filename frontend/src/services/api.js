@@ -5,7 +5,7 @@ const API_URL = "http://localhost:5000"; // Replace with your backend URL
 export const getRecommendations = async (data) => {
   const response = await axios.post(`${API_URL}/recommendations`, data, {
     headers: {
-      'Content-Type': 'multipart/form-data',
+      'Content-Type': 'multipart/form-data'
     }
   });
   return response.data;
