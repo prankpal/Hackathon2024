@@ -7,7 +7,7 @@ function Recommendations({ playlistId }) {
     react.useEffect(() => {
         const fetchRecommendations = async () => {
             try {
-                const response = await axios.get(`http://127.0.0.1:5000/playlists/${playlistId}/tracks`);
+                const response = await axios.get(`http://localhost:5001/playlists/${playlistId}/tracks`);
                 setRecommendations(response.data);
             } catch (error) {
                 console.error("Error fetching recommendations:", error);

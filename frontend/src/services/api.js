@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = "http://localhost:5000"; // Replace with your backend URL
+const API_URL = "http://localhost:5001"; // Replace with your backend URL
 
 export const getRecommendations = async (data) => {
   const response = await axios.post(`${API_URL}/recommendations`, data, {
