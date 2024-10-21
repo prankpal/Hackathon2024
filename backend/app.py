@@ -1,4 +1,5 @@
 import json
+import uuid
 from flask import Flask, request, redirect, session, url_for, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv
@@ -14,7 +15,7 @@ load_dotenv()
 
 # Set up Flask app
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["http://localhost:3000"]}}, supports_credentials=True)
+CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
 
 app.secret_key = os.getenv('FLASK_SECRET_KEY')
 app.config['SESSION_COOKIE_NAME'] = 'spotify-login-session'
@@ -32,9 +33,12 @@ def exchange_code_for_token(code):
     data = {
         'grant_type': 'authorization_code',
         'code': code,
+        'response_type': 'code',
         'redirect_uri': os.getenv("SPOTIPY_REDIRECT_URI"),
         'client_id': os.getenv("SPOTIPY_CLIENT_ID"),
-        'client_secret': os.getenv("SPOTIPY_CLIENT_SECRET")
+        'client_secret': os.getenv("SPOTIPY_CLIENT_SECRET"),
+        'state': str(uuid.uuid4()),
+        'show_dialog': 'true'
     }
     
     response = requests.post(token_url, data=data)
@@ -66,6 +70,7 @@ def callback():
 
 @app.route('/playlists', methods=['GET'])
 def playlists():
+    print("Playlists route accessed")
     token_info = session.get('token_info', None)
     if not token_info:
         return redirect(url_for('login'))
@@ -132,5 +137,5 @@ def analyze():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5001)
+    app.run(debug=True, host='localhost', port=5001)
 
